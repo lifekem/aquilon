@@ -280,7 +280,7 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#c0a375",
-              "font-size": "36px",
+              "font-size": "32px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
