@@ -164,7 +164,7 @@
             "showButtons": true
           },
           "title": "АКВИЛОН '3D",
-          "text": "<span style=\"font-style: normal;\">Киноконцертный зал Кемского ЦКиС</span>",
+          "text": "<span style=\"font-style: normal;\">Киноконцертный зал кемского центра культуры и спорта</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"preview.html\" data-toolbar=\"-mbrBtnMove\">АНОНСЫ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">СЕАНСЫ</a>"
         }
       ]
