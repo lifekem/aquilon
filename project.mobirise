@@ -310,7 +310,7 @@
             "showButtons": true
           },
           "title": "РАСПИСАНИЕ",
-          "text": "сеансов с 25.04 по 30.04",
+          "text": "киносеансов с 25.04 по 30.04",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Tuesday.html\" data-toolbar=\"-mbrBtnMove\">25.04 ВТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">26.04 СР</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Thursday.html\" data-toolbar=\"-mbrBtnMove\">27.04 ЧТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Friday.html\" data-toolbar=\"-mbrBtnMove\">28.04 ПТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Saturday.html\" data-toolbar=\"-mbrBtnMove\">29.04 СБ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Sunday.html\" data-toolbar=\"-mbrBtnMove\">30.04 ВС</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ГЛАВНАЯ</a>"
         }
       ]
