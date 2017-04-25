@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kemlife.aquilon",
-    "currentPage": "filmsession.html",
+    "currentPage": "Monday.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -454,7 +454,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Понедельник<br>24 апреля</span>",
           "text": "<br>00:00<br>Название фильма<br>3D/+6/200 р",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"preview.html\" data-toolbar=\"-mbrBtnMove\">АНОНСЫ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ГЛАВНАЯ</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
         }
       ]
     },
@@ -1326,8 +1326,8 @@
             "showButtons": true
           },
           "title": "<span style=\"font-weight: normal;\">Понедельник<br>24 апреля</span>",
-          "text": "<br>00:00<br><b>Название фильма</b><br>3D/+6/200 р",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"preview.html\" data-toolbar=\"-mbrBtnMove\">АНОНСЫ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ГЛАВНАЯ</a>"
+          "text": "<br>00:00<br>Название фильма<br>3D/+6/200 р",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
         }
       ]
     },
@@ -1469,8 +1469,8 @@
             "showButtons": true
           },
           "title": "<span style=\"font-weight: normal;\">Понедельник<br>24 апреля</span>",
-          "text": "<br>00:00<br><b>Название фильма</b><br>3D/+6/200 р",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"preview.html\" data-toolbar=\"-mbrBtnMove\">АНОНСЫ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ГЛАВНАЯ</a>"
+          "text": "<br>00:00<br>Название фильма<br>3D/+6/200 р",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
         }
       ]
     },
@@ -1612,8 +1612,8 @@
             "showButtons": true
           },
           "title": "<span style=\"font-weight: normal;\">Понедельник<br>24 апреля</span>",
-          "text": "<br>00:00<br><b>Название фильма</b><br>3D/+6/200 р",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"preview.html\" data-toolbar=\"-mbrBtnMove\">АНОНСЫ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ГЛАВНАЯ</a>"
+          "text": "<br>00:00<br>Название фильма<br>3D/+6/200 р",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
         }
       ]
     },
@@ -1755,8 +1755,8 @@
             "showButtons": true
           },
           "title": "<span style=\"font-weight: normal;\">Понедельник<br>24 апреля</span>",
-          "text": "<br>00:00<br><b>Название фильма</b><br>3D/+6/200 р",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"preview.html\" data-toolbar=\"-mbrBtnMove\">АНОНСЫ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ГЛАВНАЯ</a>"
+          "text": "<br>00:00<br>Название фильма<br>3D/+6/200 р",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
         }
       ]
     },
@@ -1898,8 +1898,8 @@
             "showButtons": true
           },
           "title": "<span style=\"font-weight: normal;\">Понедельник<br>24 апреля</span>",
-          "text": "<br>00:00<br><b>Название фильма</b><br>3D/+6/200 р",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"preview.html\" data-toolbar=\"-mbrBtnMove\">АНОНСЫ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ГЛАВНАЯ</a>"
+          "text": "<br>00:00<br>Название фильма<br>3D/+6/200 р",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
         }
       ]
     },
@@ -2018,6 +2018,9 @@
             ".mbr-section-lead": {
               "text-align": "left",
               "font-size": "20px"
+            },
+            ".mbr-section-lead B": {
+              "font-size": "21px"
             }
           },
           "_anchor": "header1-1q",
@@ -2041,8 +2044,8 @@
             "showButtons": true
           },
           "title": "<span style=\"font-weight: normal;\">Понедельник<br>24 апреля</span>",
-          "text": "<br>00:00<br><b>Название фильма</b><br>3D/+6/200 р",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"preview.html\" data-toolbar=\"-mbrBtnMove\">АНОНСЫ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ГЛАВНАЯ</a>"
+          "text": "<br>00:00<br>Название фильма<br>3D/+6/200 р",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
         }
       ]
     }
