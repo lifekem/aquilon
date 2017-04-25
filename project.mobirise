@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kemlife.aquilon",
-    "currentPage": "Monday.html",
+    "currentPage": "Sunday.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1351,7 +1351,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"font-weight: normal;\">Понедельник<br>24 апреля</span>",
+          "title": "<span style=\"font-weight: normal;\">Вторник<br>25 апреля</span>",
           "text": "<br>00:00<br>Название фильма<br>3D/+6/200 р",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
         }
@@ -1499,7 +1499,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"font-weight: normal;\">Понедельник<br>24 апреля</span>",
+          "title": "<span style=\"font-weight: normal;\">Среда<br>26 апреля</span>",
           "text": "<br>00:00<br>Название фильма<br>3D/+6/200 р",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
         }
@@ -1647,7 +1647,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"font-weight: normal;\">Понедельник<br>24 апреля</span>",
+          "title": "<span style=\"font-weight: normal;\">Четверг<br>27 апреля</span>",
           "text": "<br>00:00<br>Название фильма<br>3D/+6/200 р",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
         }
@@ -1795,7 +1795,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"font-weight: normal;\">Понедельник<br>24 апреля</span>",
+          "title": "<span style=\"font-weight: normal;\">Пятница<br>28 апреля</span>",
           "text": "<br>00:00<br>Название фильма<br>3D/+6/200 р",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
         }
@@ -1943,7 +1943,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"font-weight: normal;\">Понедельник<br>24 апреля</span>",
+          "title": "<span style=\"font-weight: normal;\">Суббота<br>29 апреля</span>",
           "text": "<br>00:00<br>Название фильма<br>3D/+6/200 р",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
         }
@@ -2094,7 +2094,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"font-weight: normal;\">Понедельник </span><br><span style=\"font-weight: normal;\">24 апреля</span>",
+          "title": "<span style=\"font-weight: normal;\">Воскресение&nbsp;</span><br><span style=\"font-weight: normal;\">30 апреля</span>",
           "text": "<br>00:00<br>Название фильма<br>3D/+6/200 р",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
         }
