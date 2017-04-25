@@ -1,7 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -478,6 +479,9 @@ h6,
   color: #c0a375;
   font-size: 46px;
   font-family: 'Open Sans', sans-serif;
+}
+#header1-1 .mbr-section-lead SPAN {
+  font-family: 'Lora', serif;
 }
 
 
