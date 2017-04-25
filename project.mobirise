@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kemlife.aquilon",
-    "currentPage": "filmsession.html",
+    "currentPage": "Tuesday.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -453,7 +453,7 @@
             "showButtons": true
           },
           "title": "Понедельник<br>24 апреля",
-          "text": "<br>00:00<br><b>Название фильма</b><br>3D/+6/200 р",
+          "text": "<br>00:00<br>Название фильма<br>3D/+6/200 р",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"preview.html\" data-toolbar=\"-mbrBtnMove\">АНОНСЫ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ГЛАВНАЯ</a>"
         }
       ]
