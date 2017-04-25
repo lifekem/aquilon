@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kemlife.aquilon",
-    "currentPage": "Monday.html",
+    "currentPage": "preview.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 63,
+    "uniqCompNum": 64,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -830,7 +830,7 @@
           "_params": {
             "imageSize": 50,
             "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -873,6 +873,19 @@
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"trailer3.html\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНО</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1r",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#2e2e2e"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">ГЛАВНАЯ</a>"
         }
       ]
     },
