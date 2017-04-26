@@ -1352,7 +1352,7 @@
             "showButtons": true
           },
           "title": "<span style=\"font-weight: normal;\">Вторник<br>25 апреля</span>",
-          "text": "<br>00:00<br>Название фильма<br>3D/+6/200 р",
+          "text": "<br>Сеансов нет",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
         }
       ]
@@ -1500,7 +1500,7 @@
             "showButtons": true
           },
           "title": "<span style=\"font-weight: normal;\">Среда<br>26 апреля</span>",
-          "text": "<br>00:00<br>Название фильма<br>3D/+6/200 р",
+          "text": "<br>18:00<br><b>Урфин Джюс и его деревянные солдаты</b><br>3D/0+/150 р",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
         }
       ]
@@ -1648,7 +1648,7 @@
             "showButtons": true
           },
           "title": "<span style=\"font-weight: normal;\">Четверг<br>27 апреля</span>",
-          "text": "<br>00:00<br>Название фильма<br>3D/+6/200 р",
+          "text": "<br>11:00<br><b>Урфин Джюс и его деревянные солдаты</b><br>3D/0+/150 р<br><br>15:00<br><b>Форсаж 8</b><br>3D/12+/250 р<br><br>15:00<br><b>Никита Кожемяка</b><br>2D/6+/100 р<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
         }
       ]
@@ -1796,7 +1796,7 @@
             "showButtons": true
           },
           "title": "<span style=\"font-weight: normal;\">Пятница<br>28 апреля</span>",
-          "text": "<br>00:00<br>Название фильма<br>3D/+6/200 р",
+          "text": "<br>Сеансов нет",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
         }
       ]
@@ -1944,7 +1944,7 @@
             "showButtons": true
           },
           "title": "<span style=\"font-weight: normal;\">Суббота<br>29 апреля</span>",
-          "text": "<br>00:00<br>Название фильма<br>3D/+6/200 р",
+          "text": "<br>Сеансов нет",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
         }
       ]
@@ -2095,7 +2095,7 @@
             "showButtons": true
           },
           "title": "<span style=\"font-weight: normal;\">Воскресение&nbsp;</span><br><span style=\"font-weight: normal;\">30 апреля</span>",
-          "text": "<br>00:00<br>Название фильма<br>3D/+6/200 р",
+          "text": "<br>19:00<br><b>Форсаж 8</b><br>3D/12+/250 р",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
         }
       ]
