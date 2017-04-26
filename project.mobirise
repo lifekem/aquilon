@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kemlife.aquilon",
-    "currentPage": "Sunday.html",
+    "currentPage": "page13.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 81,
+    "uniqCompNum": 91,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -270,7 +270,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -415,7 +415,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -560,7 +560,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "header2",
@@ -716,7 +716,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -991,7 +991,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "header2",
@@ -1147,7 +1147,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "header2",
@@ -1306,7 +1306,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1454,7 +1454,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1602,7 +1602,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1650,7 +1650,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"font-weight: normal;\">Четверг /</span><span style=\"font-weight: normal;\">27 апреля</span>",
+          "title": "<span style=\"font-weight: normal;\">Четверг /&nbsp;</span><span style=\"font-weight: normal;\">27 апреля</span>",
           "text": "<br>11:00<br><b>Урфин Джюс и его деревянные солдаты</b><br>3D/0+/150 р<br><br>15:00<br><b>Форсаж 8</b><br>3D/12+/250 р<br><br>15:00<br><b>Никита Кожемяка</b><br>2D/6+/100 р<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
         }
@@ -1753,7 +1753,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1901,7 +1901,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2049,7 +2049,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2074,7 +2074,8 @@
             ".mbr-section-title SPAN": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "24px"
+              "font-size": "24px",
+              "text-align": "left"
             }
           },
           "_anchor": "header1-1q",
@@ -2100,6 +2101,190 @@
           "title": "<span style=\"font-weight: normal;\">Воскресение / 30 апреля</span>",
           "text": "<br>19:00<br><b>Форсаж 8</b><br>3D/12+/250 р",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
+        }
+      ]
+    },
+    "page13.html": {
+      "settings": {
+        "title": "Website Creator Title",
+        "meta_descr": "Website Creator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#c0a375"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#c0a375"
+            },
+            ".link, .dropdown-item": {
+              "color": "#c0a375"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#c0a375",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-29",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1.1",
+            "fontName": {},
+            "fontColor": "#c0a375",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled%20-%202-122x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#c0a375",
+              "font-size": "16px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "SMALL": {
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2a",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "bgColor": "#2e2e2e",
+            "showMeta": true
+          },
+          "title": "ПОНЕДЕЛЬНИК",
+          "meta": "25 апреля 2017"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-2d",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#2e2e2e"
+          },
+          "text": "<blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">15:00</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Форсаж 8</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3D/12+/150р</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">18:00</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Урфин Джус и его деревянные солдаты</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3D/0+/100р</span></p></blockquote>",
+          "_styles": {
+            "SPAN": {
+              "color": "#efefef"
+            },
+            "P": {
+              "text-align": "left"
+            },
+            "FONT": {
+              "text-align": "left",
+              "color": "#efefef"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#2e2e2e"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "2",
+            "bgColor": "#2e2e2e"
+          },
+          "text": "<p><span style=\"line-height: 1.5;\">Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена нами из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, рекомендуем уточнить её в официальных источниках.&nbsp;</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">Приятного просмотра!<br></span><br></p>",
+          "_styles": {
+            "P": {
+              "color": "#7c706b",
+              "text-align": "center",
+              "font-size": "14px"
+            }
+          }
         }
       ]
     }
