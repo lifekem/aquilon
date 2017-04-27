@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kemlife.aquilon",
-    "currentPage": "filmsession.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2548,7 +2548,7 @@
           "_params": {
             "labelsColor": "#c0a375",
             "paddingTop": "3",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -2561,7 +2561,7 @@
             "showSubTitle": true
           },
           "title": "НАПИШИТЕ НАМ",
-          "subtitle": "<span style=\"font-style: normal;\">Мы с удовольствием рассмотрим любые замечания и предложения:</span>",
+          "subtitle": "<span style=\"font-style: normal;\">Мы с удовольствием примем от Вас любые замечания и предложения:</span>",
           "form": {
             "action": "lifekem@yandex.ru",
             "alerts": {
@@ -2589,7 +2589,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОТПРАВИТЬ</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОТПРАВИТЬ</a>",
           "_styles": {
             ".form-control-label": {
               "color": "#c0a375"
@@ -2600,21 +2600,11 @@
             },
             "SMALL": {
               "color": "#efefef"
+            },
+            "SPAN": {
+              "color": "#cccccc"
             }
           }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-3i",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgColor": "#2e2e2e"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"preview.html\" data-toolbar=\"-mbrBtnMove\">АНОНСЫ</a> <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">СЕАНСЫ</a>"
         }
       ]
     }
