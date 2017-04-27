@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kemlife.aquilon",
-    "currentPage": "Sunday.html",
+    "currentPage": "filmsession.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -314,7 +314,7 @@
           },
           "title": "РАСПИСАНИЕ",
           "text": "<span style=\"font-style: normal;\">киносеансов с 25.04 по 30.04</span>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Tuesday.html\" data-toolbar=\"-mbrBtnMove\">25.04 ВТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">26.04 СР</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Thursday.html\" data-toolbar=\"-mbrBtnMove\">27.04 ЧТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Friday.html\" data-toolbar=\"-mbrBtnMove\">28.04 ПТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Saturday.html\" data-toolbar=\"-mbrBtnMove\">29.04 СБ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Sunday.html\" data-toolbar=\"-mbrBtnMove\">30.04 ВС</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ГЛАВНАЯ</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Monday.html\" data-toolbar=\"-mbrBtnMove\">24.04 ПН</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Tuesday.html\" data-toolbar=\"-mbrBtnMove\">25.04 ВТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">26.04 СР</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Thursday.html\" data-toolbar=\"-mbrBtnMove\">27.04 ЧТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Friday.html\" data-toolbar=\"-mbrBtnMove\">28.04 ПТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Saturday.html\" data-toolbar=\"-mbrBtnMove\">29.04 СБ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Sunday.html\" data-toolbar=\"-mbrBtnMove\">30.04 ВС</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ГЛАВНАЯ</a>   "
         }
       ]
     },
@@ -1190,13 +1190,6 @@
             "Theme"
           ],
           "_name": "content2",
-          "_anchor": "content2-2d",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#2e2e2e"
-          },
-          "text": "<blockquote><p>Сеансов нет</p></blockquote>",
           "_styles": {
             "SPAN": {
               "color": "#efefef"
@@ -1209,7 +1202,14 @@
               "text-align": "left",
               "color": "#efefef"
             }
-          }
+          },
+          "_anchor": "content2-2d",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#2e2e2e"
+          },
+          "text": "<blockquote><p>Сеансов нет</p></blockquote>"
         },
         {
           "_tags": [
@@ -1229,20 +1229,20 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2h",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "5",
-            "bgColor": "#2e2e2e"
-          },
-          "text": "<p><span style=\"line-height: 1.5;\">Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена нами из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, рекомендуем уточнить её в официальных источниках.&nbsp;</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">Приятного просмотра!<br></span><br></p>",
           "_styles": {
             "P": {
               "color": "#7c706b",
               "text-align": "center",
               "font-size": "14px"
             }
-          }
+          },
+          "_anchor": "content1-2h",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "5",
+            "bgColor": "#2e2e2e"
+          },
+          "text": "<p><span style=\"line-height: 1.5;\">Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена нами из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, рекомендуем уточнить её в официальных источниках.&nbsp;</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">Приятного просмотра!<br></span><br></p>"
         }
       ]
     },
