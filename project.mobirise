@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kemlife.aquilon",
-    "currentPage": "contact.html",
+    "currentPage": "filmsession.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -309,6 +309,10 @@
             },
             ".mbr-section-title SPAN": {
               "font-size": "36px"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           }
         }
@@ -2596,7 +2600,9 @@
             },
             ".mbr-section-title": {
               "color": "#c0a375",
-              "font-size": "30px"
+              "font-size": "30px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             "SMALL": {
               "color": "#efefef"

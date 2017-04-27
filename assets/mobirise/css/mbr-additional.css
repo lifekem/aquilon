@@ -486,6 +486,7 @@ h6,
 }
 
 
+
 #menu-g .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -556,6 +557,9 @@ h6,
 }
 #header1-3d .mbr-section-title SPAN {
   font-size: 36px;
+}
+#header1-3d .mbr-section-lead SPAN {
+  font-family: 'Roboto', sans-serif;
 }
 
 #menu-10 .hide-buttons .nav-btn {
@@ -1548,6 +1552,7 @@ h6,
   color: #c0a375!important;
 }
 
+
 #menu-3f .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1617,6 +1622,7 @@ h6,
 #form1-3h .mbr-section-title {
   color: #c0a375;
   font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
 }
 #form1-3h SMALL {
   color: #efefef;
