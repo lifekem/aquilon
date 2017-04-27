@@ -308,7 +308,7 @@
               "font-size": "32px"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "36px"
+              "font-size": "46px"
             },
             ".mbr-section-lead SPAN": {
               "font-family": "'Roboto', sans-serif",
