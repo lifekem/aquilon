@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 121,
+    "uniqCompNum": 122,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -277,44 +277,40 @@
             "Theme"
           ],
           "_name": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#c0a375",
-              "font-size": "46px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "46px"
-            }
-          },
-          "_anchor": "header1-h",
+          "_anchor": "header1-3d",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/qsc-cinemecinteriorlrg-2000x1331.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#2e2e2e",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
-          "title": "РАСПИСАНИЕ",
-          "text": "<span style=\"font-style: normal;\">киносеансов с 25.04 по 30.04</span>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Monday.html\" data-toolbar=\"-mbrBtnMove\">24.04 ПН</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Tuesday.html\" data-toolbar=\"-mbrBtnMove\">25.04 ВТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">26.04 СР</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Thursday.html\" data-toolbar=\"-mbrBtnMove\">27.04 ЧТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Friday.html\" data-toolbar=\"-mbrBtnMove\">28.04 ПТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Saturday.html\" data-toolbar=\"-mbrBtnMove\">29.04 СБ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Sunday.html\" data-toolbar=\"-mbrBtnMove\">30.04 ВС</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">&nbsp; НАЗАД &nbsp;&nbsp;</a>   "
+          "title": "<span style=\"font-weight: normal;\">РАСПИСАНИЕ</span>",
+          "text": "<span style=\"font-style: normal;\">киносеансов на неделю</span>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">25.04 ВТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">26.04 СР</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">27.04 ЧТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">28.04 ПТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">29.04 СБ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">30.04 ВС</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#c0a375",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "32px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "36px"
+            }
+          }
         }
       ]
     },

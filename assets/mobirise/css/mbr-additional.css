@@ -486,7 +486,6 @@ h6,
 }
 
 
-
 #menu-g .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -550,16 +549,13 @@ h6,
 #menu-g .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header1-h .mbr-section-title {
+#header1-3d .mbr-section-title {
   color: #c0a375;
-  font-size: 46px;
   font-family: 'Open Sans', sans-serif;
+  font-size: 32px;
 }
-#header1-h .btn {
-  font-family: 'Open Sans', sans-serif;
-}
-#header1-h .mbr-section-title SPAN {
-  font-size: 46px;
+#header1-3d .mbr-section-title SPAN {
+  font-size: 36px;
 }
 
 #menu-10 .hide-buttons .nav-btn {
