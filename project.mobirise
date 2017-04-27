@@ -281,7 +281,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
@@ -298,7 +298,7 @@
             "showButtons": true
           },
           "title": "<span style=\"font-weight: normal;\">РАСПИСАНИЕ</span>",
-          "text": "<span style=\"font-style: normal;\">киносеансов на неделю</span>",
+          "text": "<span style=\"font-style: normal;\"><b>киносеансов на неделю</b></span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Tuesday.html\" data-toolbar=\"-mbrBtnMove\">25.04 ВТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">26.04 СР</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Thursday.html\" data-toolbar=\"-mbrBtnMove\">27.04 ЧТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Friday.html\" data-toolbar=\"-mbrBtnMove\">28.04 ПТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Saturday.html\" data-toolbar=\"-mbrBtnMove\">29.04 СБ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Sunday.html\" data-toolbar=\"-mbrBtnMove\">30.04 ВС</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a>",
           "_styles": {
             ".mbr-section-title": {
@@ -312,7 +312,8 @@
             },
             ".mbr-section-lead SPAN": {
               "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#efefef"
             }
           }
         }
