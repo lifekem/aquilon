@@ -2565,7 +2565,7 @@
           "form": {
             "action": "lifekem@yandex.ru",
             "alerts": {
-              "success": "Сообщение отправлено"
+              "success": "Спасибо"
             },
             "fields": {
               "name": {
