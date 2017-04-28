@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kemlife.aquilon",
-    "currentPage": "contact.html",
+    "currentPage": "filmsession.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -323,7 +323,7 @@
             "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Tuesday.html\" data-toolbar=\"-mbrBtnMove\">25.04 &nbsp;ВТ</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Tuesday.html\" data-toolbar=\"-mbrBtnMove\">25.04 ВТ</a> "
         },
         {
           "_tags": [
@@ -349,7 +349,7 @@
             "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Thursday.html\" data-toolbar=\"-mbrBtnMove\">27.04 ЧТ&nbsp;</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Thursday.html\" data-toolbar=\"-mbrBtnMove\">27.04 ЧТ</a> "
         },
         {
           "_tags": [
@@ -408,6 +408,12 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#c1c1c1",
+              "font-size": "18px"
+            }
+          },
           "_anchor": "header1-3t",
           "_params": {
             "parallax": true,
@@ -430,13 +436,7 @@
           },
           "title": "FULL SCREEN INTRO",
           "text": "Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, в целях избежания недоразумений, рекомендуем уточнить её в официальных источниках. <br><br>Приятного просмотра!.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#c1c1c1",
-              "font-size": "18px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     },
@@ -1351,6 +1351,12 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#c1c1c1",
+              "font-size": "18px"
+            }
+          },
           "_anchor": "header1-3u",
           "_params": {
             "parallax": true,
@@ -1373,13 +1379,7 @@
           },
           "title": "FULL SCREEN INTRO",
           "text": "Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, в целях избежания недоразумений, рекомендуем уточнить её в официальных источниках. <br><br>Приятного просмотра!<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#c1c1c1",
-              "font-size": "18px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     },
@@ -1550,6 +1550,12 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "18px",
+              "color": "#c1c1c1"
+            }
+          },
           "_anchor": "header1-3v",
           "_params": {
             "parallax": true,
@@ -1572,13 +1578,7 @@
           },
           "title": "FULL SCREEN INTRO",
           "text": "Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, в целях избежания недоразумений, рекомендуем уточнить её в официальных источниках. <br><br>Приятного просмотра!<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-size": "18px",
-              "color": "#c1c1c1"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     },
@@ -1749,6 +1749,12 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "18px",
+              "color": "#c1c1c1"
+            }
+          },
           "_anchor": "header1-3w",
           "_params": {
             "parallax": true,
@@ -1771,13 +1777,7 @@
           },
           "title": "FULL SCREEN INTRO",
           "text": "Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, в целях избежания недоразумений, рекомендуем уточнить её в официальных источниках. <br><br>Приятного просмотра!<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-size": "18px",
-              "color": "#c1c1c1"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     },
@@ -1948,6 +1948,12 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "18px",
+              "color": "#c1c1c1"
+            }
+          },
           "_anchor": "header1-3x",
           "_params": {
             "parallax": true,
@@ -1970,13 +1976,7 @@
           },
           "title": "FULL SCREEN INTRO",
           "text": "Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, в целях избежания недоразумений, рекомендуем уточнить её в официальных источниках. <br><br>Приятного просмотра!<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-size": "18px",
-              "color": "#c1c1c1"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     },
@@ -2148,6 +2148,12 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "18px",
+              "color": "#c1c1c1"
+            }
+          },
           "_anchor": "header1-3y",
           "_params": {
             "parallax": true,
@@ -2170,13 +2176,7 @@
           },
           "title": "FULL SCREEN INTRO",
           "text": "Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, в целях избежания недоразумений, рекомендуем уточнить её в официальных источниках. <br><br>Приятного просмотра!<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-size": "18px",
-              "color": "#c1c1c1"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     },
@@ -2347,6 +2347,12 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "18px",
+              "color": "#c1c1c1"
+            }
+          },
           "_anchor": "header1-3z",
           "_params": {
             "parallax": true,
@@ -2369,13 +2375,7 @@
           },
           "title": "FULL SCREEN INTRO",
           "text": "Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, в целях избежания недоразумений, рекомендуем уточнить её в официальных источниках. <br><br>Приятного просмотра!<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-size": "18px",
-              "color": "#c1c1c1"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     },
@@ -2546,6 +2546,12 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "18px",
+              "color": "#c1c1c1"
+            }
+          },
           "_anchor": "header1-40",
           "_params": {
             "parallax": true,
@@ -2568,13 +2574,7 @@
           },
           "title": "FULL SCREEN INTRO",
           "text": "Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, в целях избежания недоразумений, рекомендуем уточнить её в официальных источниках. <br><br>Приятного просмотра!<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-size": "18px",
-              "color": "#c1c1c1"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     },
@@ -2748,6 +2748,11 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#7c706b"
+            }
+          },
           "_anchor": "contacts1-49",
           "_params": {
             "paddingTop": "4",
@@ -2783,12 +2788,7 @@
           },
           "text1": "<br>АКВИЛОН 3D <br>Версия 1.0.1<br>Web-приложение<br>OS Android<br>",
           "text2": "<br>Приложение не использует кеш, по этому его объем минимален, но для работы требует подключение к интернет.<br>",
-          "text3": "<br>Для раздела анонсов и просмотра трейлеров используйте качественное подключение к сети - 3G/4G/WI-FI.&nbsp;<br>",
-          "_styles": {
-            "P": {
-              "color": "#7c706b"
-            }
-          }
+          "text3": "<br>Для раздела анонсов и просмотра трейлеров используйте качественное подключение к сети - 3G/4G/WI-FI.&nbsp;<br>"
         }
       ]
     }
