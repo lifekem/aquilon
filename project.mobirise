@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kemlife.aquilon",
-    "currentPage": "Monday.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2578,103 +2578,6 @@
         }
       ]
     },
-    "page13.html": {
-      "settings": {
-        "title": "Site Creator Title",
-        "meta_descr": "Site Creator Description"
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "16px"
-            },
-            ".navbar-toggler": {
-              "color": "#c0a375"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#c0a375"
-            },
-            ".link, .dropdown-item": {
-              "color": "#c0a375"
-            },
-            ".link": {
-              "font-size": "1.1rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#c0a375",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-3e",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": "1.1",
-            "fontName": {},
-            "fontColor": "#c0a375",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": false,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled%20-%202-122x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>КОНТАКТ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        }
-      ]
-    },
     "contact.html": {
       "settings": {
         "title": "",
@@ -2878,8 +2781,8 @@
               "newWindow": false
             }
           },
-          "text1": "<br>АКВИЛОН 3D <br>Версия 1.0.1<br>Web-приложение<br>OS Android 5.1 и выше.<br>",
-          "text2": "<br>Приложение не использует кеш, по этому его объем минимален, но для использования требует подключение к интернет.<br>",
+          "text1": "<br>АКВИЛОН 3D <br>Версия 1.0.1<br>Web-приложение<br>OS Android<br>",
+          "text2": "<br>Приложение не использует кеш, по этому его объем минимален, но для работы требует подключение к интернет.<br>",
           "text3": "<br>Для раздела анонсов и просмотра трейлеров используйте качественное подключение к сети - 3G/4G/WI-FI.&nbsp;<br>",
           "_styles": {
             "P": {
