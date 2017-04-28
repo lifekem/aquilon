@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kemlife.aquilon",
-    "currentPage": "preview.html",
+    "currentPage": "Monday.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -310,7 +310,7 @@
             "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Monday.html\" data-toolbar=\"-mbrBtnMove\">24.04 ПН</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Monday.html\" data-toolbar=\"-mbrBtnMove\">01.05 ПН</a> "
         },
         {
           "_tags": [
@@ -1305,7 +1305,7 @@
             "showMeta": true
           },
           "title": "ПОНЕДЕЛЬНИК",
-          "meta": "24 апреля 2017"
+          "meta": "1 мая 2017"
         },
         {
           "_tags": [
@@ -1331,7 +1331,7 @@
             "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "text": "<blockquote><p>Сеансов нет</p></blockquote>"
+          "text": "<blockquote><p>17:00</p><p><b>Урфин Джюс и его деревянные солдаты</b></p><p>3D/0+/150р</p><p><br></p><p>19:00</p><p><b>Форсаж 8</b></p><p>3D/12+/250р</p><p><br></p></blockquote>"
         },
         {
           "_tags": [
@@ -1729,7 +1729,7 @@
             "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "text": "<blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">18:00</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Урфин Джус и его деревянные солдаты</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3D/0+/150р</span></p></blockquote>"
+          "text": "<blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">18:00</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Урфин Джюс и его деревянные солдаты</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3D/0+/150р</span></p></blockquote>"
         },
         {
           "_tags": [
@@ -1928,7 +1928,7 @@
             "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "text": "<br><blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">11:00</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Урфин Джус и его деревянные солдаты</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3D/0+/150р</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">15:00</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Форсаж 8</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3D/12+/250р</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">18:00</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Никита Кожемяка</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">2D/6+/100р</span></p></blockquote>"
+          "text": "<br><blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">11:00</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Урфин Джюс и его деревянные солдаты</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3D/0+/150р</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">15:00</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Форсаж 8</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3D/12+/250р</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">18:00</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Никита Кожемяка</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">2D/6+/100р</span></p></blockquote>"
         },
         {
           "_tags": [
@@ -2526,7 +2526,7 @@
             "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "text": "<blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">19:00</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Форсаж 8</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3D/12+/250р</span></p></blockquote>"
+          "text": "<blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">16:00</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Никита Кожемяка</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">2D/6+/100р</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">19:00</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Форсаж 8</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3D/12+/250р</span></p></blockquote>"
         },
         {
           "_tags": [
