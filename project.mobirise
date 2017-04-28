@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kemlife.aquilon",
-    "currentPage": "filmsession.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2781,14 +2781,14 @@
               "name": "info",
               "family": "MobiriseIcons",
               "link": "",
-              "size": "100",
+              "size": "90",
               "active": true,
               "newWindow": false
             }
           },
-          "text1": "<br>АКВИЛОН 3D <br>Версия 1.0.1<br>Web-приложение<br>OS Android<br>",
-          "text2": "<br>Приложение не использует кеш, по этому его объем минимален, но для работы требует подключение к интернет.<br>",
-          "text3": "<br>Для раздела анонсов и просмотра трейлеров используйте качественное подключение к сети - 3G/4G/WI-FI.&nbsp;<br>"
+          "text1": "<span style=\"font-size: 0.875rem; line-height: 1.5;\">АКВИЛОН 3D v.</span>&nbsp;1.0.1<br>Web-приложение<br>Рекомендовано:<br>Android 5.1 и выше<br>",
+          "text2": "<span style=\"font-size: 0.875rem; line-height: 1.5;\">Приложение не использует кеш, по этому его объем минимален, но для работы требует подключение к интернет.</span><br>",
+          "text3": "<span style=\"font-size: 0.875rem; line-height: 1.5;\">Для раздела анонсов и просмотра трейлеров используйте качественное подключение к сети - 3G/4G/WI-FI.&nbsp;</span><br>"
         }
       ]
     }
