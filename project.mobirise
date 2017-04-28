@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 137,
+    "uniqCompNum": 138,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -407,21 +407,36 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "footer1",
-          "_anchor": "footer1-3s",
+          "_name": "header1",
+          "_anchor": "header1-3t",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
             "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
           },
-          "text": "Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, в целях избежания недоразумений, рекомендуем уточнить её в официальных источниках. <br><br>Приятного просмотра!<br>"
+          "title": "FULL SCREEN INTRO",
+          "text": "Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, в целях избежания недоразумений, рекомендуем уточнить её в официальных источниках. <br><br>Приятного просмотра!.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#c1c1c1",
+              "font-size": "18px"
+            }
+          }
         }
       ]
     },

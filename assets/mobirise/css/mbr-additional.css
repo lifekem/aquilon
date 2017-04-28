@@ -559,6 +559,10 @@ h6,
   color: #c0a375;
   font-size: 36px;
 }
+#header1-3t .mbr-section-lead {
+  color: #c1c1c1;
+  font-size: 18px;
+}
 
 #menu-10 .hide-buttons .nav-btn {
   display: none !important;
