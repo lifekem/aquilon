@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 127,
+    "uniqCompNum": 137,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -138,13 +138,16 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#c0a375",
-              "font-size": "46px",
+              "font-size": "36px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".mbr-section-lead SPAN": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "36px"
             }
           },
           "_anchor": "header1-1",
@@ -167,7 +170,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "АКВИЛОН '3D",
+          "title": "<span style=\"font-weight: normal;\">АКВИЛОН '3D</span>",
           "text": "<span style=\"font-style: normal;\">Киноконцертный зал кемского центра культуры и спорта</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"preview.html\" data-toolbar=\"-mbrBtnMove\">АНОНСЫ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">СЕАНСЫ</a>"
         }
@@ -273,50 +276,152 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>КОНТАКТ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#c0a375",
+              "font-size": "36px"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-3d",
+          "_name": "header3",
+          "_anchor": "header3-3j",
           "_params": {
-            "parallax": true,
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "bgColor": "#2e2e2e",
+            "showMeta": true
+          },
+          "title": "РАСПИСАНИЕ",
+          "meta": "<span style=\"font-style: normal;\">КИНОСЕАНСОВ НА НЕДЕЛЮ</span>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#2e2e2e"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Monday.html\" data-toolbar=\"-mbrBtnMove\">24.04 ПН</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3l",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#2e2e2e"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Tuesday.html\" data-toolbar=\"-mbrBtnMove\">25.04 &nbsp;ВТ</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3m",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#2e2e2e"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">26.04 СР</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3n",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#2e2e2e"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Thursday.html\" data-toolbar=\"-mbrBtnMove\">27.04 ЧТ&nbsp;</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3o",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#2e2e2e"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Friday.html\" data-toolbar=\"-mbrBtnMove\">28.04 ПТ</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3p",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#2e2e2e"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Saturday.html\" data-toolbar=\"-mbrBtnMove\">29.04 СБ</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3q",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#2e2e2e"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Sunday.html\" data-toolbar=\"-mbrBtnMove\">30.04 ВС</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ГЛАВНАЯ</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-3s",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "4",
             "bgImageRadio": false,
-            "showArrow": false,
+            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
           },
-          "title": "<span style=\"font-weight: normal;\">РАСПИСАНИЕ</span>",
-          "text": "<span style=\"font-style: normal;\">киносеансов на неделю</span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Tuesday.html\" data-toolbar=\"-mbrBtnMove\">25.04 ВТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">26.04 СР</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Thursday.html\" data-toolbar=\"-mbrBtnMove\">27.04 ЧТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Friday.html\" data-toolbar=\"-mbrBtnMove\">28.04 ПТ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Saturday.html\" data-toolbar=\"-mbrBtnMove\">29.04 СБ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"Sunday.html\" data-toolbar=\"-mbrBtnMove\">30.04 ВС</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#c0a375",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "32px"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "46px"
-            },
-            ".mbr-section-lead SPAN": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "color": "#efefef",
-              "font-size": "25px"
-            }
-          }
+          "text": "Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, в целях избежания недоразумений, рекомендуем уточнить её в официальных источниках. <br><br>Приятного просмотра!<br>"
         }
       ]
     },
@@ -2550,6 +2655,23 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#c0a375"
+            },
+            ".mbr-section-title": {
+              "color": "#c0a375",
+              "font-size": "30px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "SMALL": {
+              "color": "#efefef"
+            },
+            "SPAN": {
+              "color": "#cccccc"
+            }
+          },
           "_anchor": "form1-3h",
           "_params": {
             "labelsColor": "#c0a375",
@@ -2595,24 +2717,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОТПРАВИТЬ</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#c0a375"
-            },
-            ".mbr-section-title": {
-              "color": "#c0a375",
-              "font-size": "30px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            "SMALL": {
-              "color": "#efefef"
-            },
-            "SPAN": {
-              "color": "#cccccc"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОТПРАВИТЬ</a>"
         }
       ]
     }
