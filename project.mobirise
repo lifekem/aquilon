@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kemlife.aquilon",
-    "currentPage": "contact.html",
+    "currentPage": "trailer2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -323,7 +323,7 @@
             "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Tuesday.html\" data-toolbar=\"-mbrBtnMove\">25.04 ВТ</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Tuesday.html\" data-toolbar=\"-mbrBtnMove\">02.05 ВТ</a> "
         },
         {
           "_tags": [
@@ -336,7 +336,7 @@
             "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">26.04 СР</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">03.05 СР</a> "
         },
         {
           "_tags": [
@@ -349,7 +349,7 @@
             "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Thursday.html\" data-toolbar=\"-mbrBtnMove\">27.04 ЧТ</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Thursday.html\" data-toolbar=\"-mbrBtnMove\">04.05 ЧТ</a> "
         },
         {
           "_tags": [
@@ -362,7 +362,7 @@
             "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Friday.html\" data-toolbar=\"-mbrBtnMove\">28.04 ПТ</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Friday.html\" data-toolbar=\"-mbrBtnMove\">05.05 ПТ</a> "
         },
         {
           "_tags": [
@@ -375,7 +375,7 @@
             "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Saturday.html\" data-toolbar=\"-mbrBtnMove\">29.04 СБ</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Saturday.html\" data-toolbar=\"-mbrBtnMove\">06.05 СБ</a> "
         },
         {
           "_tags": [
@@ -388,7 +388,7 @@
             "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Sunday.html\" data-toolbar=\"-mbrBtnMove\">30.04 ВС</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Sunday.html\" data-toolbar=\"-mbrBtnMove\">07.05 ВС</a> "
         },
         {
           "_tags": [
@@ -604,6 +604,112 @@
       },
       "components": [
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-17",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": false,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/905029-1400x2000.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"trailer2.html\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНО</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-18",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": false,
+            "showText": false,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/592304-1400x2000.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"trailer3.html\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНО</a>"
+        },
+        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -749,112 +855,6 @@
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "Подробнее",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"trailer1.html\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНО</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-17",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": false,
-            "showText": false,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/894027-1400x1994.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"trailer2.html\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНО</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-18",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": false,
-            "showText": false,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/592304-1400x2000.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"trailer3.html\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНО</a>"
         },
         {
           "_tags": [
@@ -1010,7 +1010,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/z7nPOHQcW3g",
+              "src": "https://youtu.be/3iDAnsVrlMM",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -1022,7 +1022,7 @@
             }
           },
           "title": "INTRO WITH YOUTUBE VIDEO",
-          "text": "Пристегните ремни — гонка продолжается. Гавана, Берлин, Нью-Йорк — для самой крутой команды в мире нет ничего невозможного, пока они вместе. Но когда на их пути окажется одна из самых красивых женщин на планете и по совместительству королева киберпреступности, дороги друзей разойдутся.",
+          "text": "Ленинград, февраль 1942 года. У офицера госбезопасности Андреева и молодого врача Марицкой есть всего 72 часа, чтобы предотвратить катастрофу. Жизнь и смерть, любовь и предательство переплетаются в стремительно развивающихся событиях…",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"preview.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a>"
         }
       ]
@@ -1505,7 +1505,7 @@
             "showMeta": true
           },
           "title": "ВТОРНИК",
-          "meta": "25 апреля 2017"
+          "meta": "2 мая 2017"
         },
         {
           "_tags": [
@@ -1704,7 +1704,7 @@
             "showMeta": true
           },
           "title": "СРЕДА",
-          "meta": "26 апреля 2017"
+          "meta": "3 мая 2017"
         },
         {
           "_tags": [
@@ -1729,7 +1729,7 @@
             "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "text": "<blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">18:00</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Урфин Джюс и его деревянные солдаты</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3D/0+/150р</span></p></blockquote>"
+          "text": "<div><span style=\"font-size: 1.07rem; line-height: 1.5; font-family: Lora, serif; font-style: italic;\"><br></span></div><div><br><blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">15:00</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Урфин Джюс и его деревянные солдаты</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3D/0+/150р</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">17:00</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Никита Кожемяка</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">2D/6+/100р</span></p></blockquote></div>"
         },
         {
           "_tags": [
@@ -1903,7 +1903,7 @@
             "showMeta": true
           },
           "title": "ЧЕТВЕРГ",
-          "meta": "27 апреля 2017"
+          "meta": "4 мая 2017"
         },
         {
           "_tags": [
@@ -1928,7 +1928,7 @@
             "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "text": "<br><blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">11:00</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Урфин Джюс и его деревянные солдаты</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3D/0+/150р</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">15:00</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Форсаж 8</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3D/12+/250р</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">18:00</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Никита Кожемяка</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">2D/6+/100р</span></p></blockquote>"
+          "text": "<br><blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">17:00</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Никита Кожемяка</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">2D/6+/100р</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">19:00</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Три дня до весны</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3D/12+/250</span></p></blockquote>"
         },
         {
           "_tags": [
@@ -2102,7 +2102,7 @@
             "showMeta": true
           },
           "title": "ПЯТНИЦА",
-          "meta": "28 апреля 2017"
+          "meta": "5 мая 2017"
         },
         {
           "_tags": [
@@ -2128,7 +2128,7 @@
             "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "text": "<blockquote><p>Сеансов нет</p></blockquote>"
+          "text": "<blockquote><p>16:00</p><p><b>Три дня до весны</b></p><p>3D/12+/250</p></blockquote>"
         },
         {
           "_tags": [
@@ -2302,7 +2302,7 @@
             "showMeta": true
           },
           "title": "СУББОТА",
-          "meta": "29 апреля 2017"
+          "meta": "6 мая 2017"
         },
         {
           "_tags": [
@@ -2501,7 +2501,7 @@
             "showMeta": true
           },
           "title": "ВОСКРЕСЕНИЕ",
-          "meta": "30 апреля 2017"
+          "meta": "7 мая 2017"
         },
         {
           "_tags": [
@@ -2526,7 +2526,7 @@
             "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "text": "<blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">16:00</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Никита Кожемяка</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">2D/6+/100р</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">19:00</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Форсаж 8</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3D/12+/250р</span></p></blockquote>"
+          "text": "<div><br><blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">13:00</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Урфин Джюс и его деревянные солдаты</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3D/0+/100р</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">15:00</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Никита Кожемяка</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">2D/6+/100р</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">17:00</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Три дня до весны</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3D/12+/250р</span></p></blockquote></div>"
         },
         {
           "_tags": [
