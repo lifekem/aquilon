@@ -931,10 +931,9 @@ h6,
   text-align: left;
   color: #efefef;
 }
-#content1-2h P {
-  color: #7c706b;
-  text-align: center;
-  font-size: 14px;
+#header1-3u .mbr-section-lead {
+  color: #c1c1c1;
+  font-size: 18px;
 }
 
 
@@ -1023,10 +1022,9 @@ h6,
   text-align: left;
   color: #efefef;
 }
-#content1-2n P {
-  color: #7c706b;
-  text-align: center;
-  font-size: 14px;
+#header1-3v .mbr-section-lead {
+  font-size: 18px;
+  color: #c1c1c1;
 }
 
 
@@ -1115,10 +1113,9 @@ h6,
   text-align: left;
   color: #efefef;
 }
-#content1-2s P {
-  color: #7c706b;
-  text-align: center;
-  font-size: 14px;
+#header1-3w .mbr-section-lead {
+  font-size: 18px;
+  color: #c1c1c1;
 }
 
 
@@ -1207,10 +1204,9 @@ h6,
   text-align: left;
   color: #efefef;
 }
-#content1-2x P {
-  color: #7c706b;
-  text-align: center;
-  font-size: 14px;
+#header1-3x .mbr-section-lead {
+  font-size: 18px;
+  color: #c1c1c1;
 }
 
 
@@ -1300,10 +1296,9 @@ h6,
   text-align: left;
   color: #efefef;
 }
-#content1-32 P {
-  color: #7c706b;
-  text-align: center;
-  font-size: 14px;
+#header1-3y .mbr-section-lead {
+  font-size: 18px;
+  color: #c1c1c1;
 }
 
 
@@ -1392,10 +1387,9 @@ h6,
   text-align: left;
   color: #efefef;
 }
-#content1-37 P {
-  color: #7c706b;
-  text-align: center;
-  font-size: 14px;
+#header1-3z .mbr-section-lead {
+  font-size: 18px;
+  color: #c1c1c1;
 }
 
 
@@ -1484,10 +1478,9 @@ h6,
   text-align: left;
   color: #efefef;
 }
-#content1-3c P {
-  color: #7c706b;
-  text-align: center;
-  font-size: 14px;
+#header1-40 .mbr-section-lead {
+  font-size: 18px;
+  color: #c1c1c1;
 }
 
 #menu-3e .hide-buttons .nav-btn {
@@ -1631,4 +1624,8 @@ h6,
 }
 #form1-3h SPAN {
   color: #cccccc;
+  font-size: 18px;
+}
+#contacts1-49 P {
+  color: #7c706b;
 }

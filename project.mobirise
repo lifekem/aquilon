@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kemlife.aquilon",
-    "currentPage": "filmsession.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 138,
+    "uniqCompNum": 154,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -170,7 +170,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"font-weight: normal;\">АКВИЛОН '3D</span>",
+          "title": "АКВИЛОН '3D",
           "text": "<span style=\"font-style: normal;\">Киноконцертный зал кемского центра культуры и спорта</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"preview.html\" data-toolbar=\"-mbrBtnMove\">АНОНСЫ</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">СЕАНСЫ</a>"
         }
@@ -412,7 +412,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
@@ -1350,21 +1350,36 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#7c706b",
-              "text-align": "center",
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "content1-2h",
+          "_name": "header1",
+          "_anchor": "header1-3u",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "5",
-            "bgColor": "#2e2e2e"
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
           },
-          "text": "<p><span style=\"line-height: 1.5;\">Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена нами из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, рекомендуем уточнить её в официальных источниках.&nbsp;</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">Приятного просмотра!<br></span><br></p>"
+          "title": "FULL SCREEN INTRO",
+          "text": "Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, в целях избежания недоразумений, рекомендуем уточнить её в официальных источниках. <br><br>Приятного просмотра!<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#c1c1c1",
+              "font-size": "18px"
+            }
+          }
         }
       ]
     },
@@ -1534,21 +1549,36 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#7c706b",
-              "text-align": "center",
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "content1-2n",
+          "_name": "header1",
+          "_anchor": "header1-3v",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "5",
-            "bgColor": "#2e2e2e"
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
           },
-          "text": "<p><span style=\"line-height: 1.5;\">Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена нами из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, рекомендуем уточнить её в официальных источниках.&nbsp;</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">Приятного просмотра!<br></span><br></p>"
+          "title": "FULL SCREEN INTRO",
+          "text": "Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, в целях избежания недоразумений, рекомендуем уточнить её в официальных источниках. <br><br>Приятного просмотра!<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "18px",
+              "color": "#c1c1c1"
+            }
+          }
         }
       ]
     },
@@ -1718,21 +1748,36 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#7c706b",
-              "text-align": "center",
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "content1-2s",
+          "_name": "header1",
+          "_anchor": "header1-3w",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "5",
-            "bgColor": "#2e2e2e"
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
           },
-          "text": "<p><span style=\"line-height: 1.5;\">Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена нами из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, рекомендуем уточнить её в официальных источниках.&nbsp;</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">Приятного просмотра!<br></span><br></p>"
+          "title": "FULL SCREEN INTRO",
+          "text": "Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, в целях избежания недоразумений, рекомендуем уточнить её в официальных источниках. <br><br>Приятного просмотра!<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "18px",
+              "color": "#c1c1c1"
+            }
+          }
         }
       ]
     },
@@ -1902,21 +1947,36 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#7c706b",
-              "text-align": "center",
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "content1-2x",
+          "_name": "header1",
+          "_anchor": "header1-3x",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "5",
-            "bgColor": "#2e2e2e"
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
           },
-          "text": "<p><span style=\"line-height: 1.5;\">Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена нами из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, рекомендуем уточнить её в официальных источниках.&nbsp;</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">Приятного просмотра!<br></span><br></p>"
+          "title": "FULL SCREEN INTRO",
+          "text": "Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, в целях избежания недоразумений, рекомендуем уточнить её в официальных источниках. <br><br>Приятного просмотра!<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "18px",
+              "color": "#c1c1c1"
+            }
+          }
         }
       ]
     },
@@ -2087,21 +2147,36 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#7c706b",
-              "text-align": "center",
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "content1-32",
+          "_name": "header1",
+          "_anchor": "header1-3y",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "5",
-            "bgColor": "#2e2e2e"
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
           },
-          "text": "<p><span style=\"line-height: 1.5;\">Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена нами из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, рекомендуем уточнить её в официальных источниках.&nbsp;</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">Приятного просмотра!<br></span><br></p>"
+          "title": "FULL SCREEN INTRO",
+          "text": "Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, в целях избежания недоразумений, рекомендуем уточнить её в официальных источниках. <br><br>Приятного просмотра!<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "18px",
+              "color": "#c1c1c1"
+            }
+          }
         }
       ]
     },
@@ -2271,21 +2346,36 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#7c706b",
-              "text-align": "center",
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "content1-37",
+          "_name": "header1",
+          "_anchor": "header1-3z",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "5",
-            "bgColor": "#2e2e2e"
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
           },
-          "text": "<p><span style=\"line-height: 1.5;\">Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена нами из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, рекомендуем уточнить её в официальных источниках.&nbsp;</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">Приятного просмотра!<br></span><br></p>"
+          "title": "FULL SCREEN INTRO",
+          "text": "Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, в целях избежания недоразумений, рекомендуем уточнить её в официальных источниках. <br><br>Приятного просмотра!<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "18px",
+              "color": "#c1c1c1"
+            }
+          }
         }
       ]
     },
@@ -2455,21 +2545,36 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#7c706b",
-              "text-align": "center",
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "content1-3c",
+          "_name": "header1",
+          "_anchor": "header1-40",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "5",
-            "bgColor": "#2e2e2e"
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
           },
-          "text": "<p><span style=\"line-height: 1.5;\">Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена нами из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, рекомендуем уточнить её в официальных источниках.&nbsp;</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p><span style=\"line-height: 1.5;\">Приятного просмотра!<br></span><br></p>"
+          "title": "FULL SCREEN INTRO",
+          "text": "Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, в целях избежания недоразумений, рекомендуем уточнить её в официальных источниках. <br><br>Приятного просмотра!<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-size": "18px",
+              "color": "#c1c1c1"
+            }
+          }
         }
       ]
     },
@@ -2684,7 +2789,8 @@
               "color": "#efefef"
             },
             "SPAN": {
-              "color": "#cccccc"
+              "color": "#cccccc",
+              "font-size": "18px"
             }
           },
           "_anchor": "form1-3h",
@@ -2701,10 +2807,10 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubTitle": true
+            "showSubTitle": false
           },
           "title": "НАПИШИТЕ НАМ",
-          "subtitle": "<span style=\"font-style: normal;\">Мы с удовольствием примем от Вас любые замечания и предложения:</span>",
+          "subtitle": "<br><span style=\"font-style: normal;\">Мы с удовольствием примем от Вас любые замечания и предложения:</span>",
           "form": {
             "action": "lifekem@yandex.ru",
             "alerts": {
@@ -2733,6 +2839,53 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОТПРАВИТЬ</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-49",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo%20big-128x128.png",
+              "width": 128,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "info",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "100",
+              "active": true,
+              "newWindow": false
+            }
+          },
+          "text1": "<br>АКВИЛОН 3D <br>Версия 1.0.1<br>Web-приложение<br>OS Android 5.1 и выше.<br>",
+          "text2": "<br>Приложение не использует кеш, по этому его объем минимален, но для использования требует подключение к интернет.<br>",
+          "text3": "<br>Для раздела анонсов и просмотра трейлеров используйте качественное подключение к сети - 3G/4G/WI-FI.&nbsp;<br>",
+          "_styles": {
+            "P": {
+              "color": "#7c706b"
+            }
+          }
         }
       ]
     }
