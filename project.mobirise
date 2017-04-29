@@ -1318,7 +1318,7 @@
           "_name": "buttons1",
           "_anchor": "buttons1-2e",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgColor": "#2e2e2e"
           },
