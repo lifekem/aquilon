@@ -1566,6 +1566,7 @@ h6,
   color: #7c706b;
 }
 
+
 #menu-4b .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1634,4 +1635,8 @@ h6,
 }
 #htmlblock-block-4c TD {
   color: #efefef;
+}
+#htmlblock-block-4c DIV {
+  color: #c0a375;
+  font-family: 'Open Sans', sans-serif;
 }
