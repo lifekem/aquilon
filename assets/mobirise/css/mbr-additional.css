@@ -908,31 +908,13 @@ h6,
 #menu-29 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header3-2a .mbr-section-title,
-#header3-2a .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-2a H3 {
+#htmlblock-block-4u H3 {
   color: #c0a375;
   font-size: 16px;
   font-family: 'Open Sans', sans-serif;
 }
-#header3-2a SMALL {
-  text-align: right;
-}
-#content2-2d SPAN {
-  color: #efefef;
-}
-#content2-2d P {
-  text-align: left;
-  color: #efefef;
-}
-#content2-2d FONT {
-  text-align: left;
-  color: #efefef;
-}
 #header1-3u .mbr-section-lead {
-  color: #c1c1c1;
+  color: #7c706b;
   font-size: 18px;
 }
 
