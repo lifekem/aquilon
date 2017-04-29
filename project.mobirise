@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kemlife.aquilon",
-    "currentPage": "Monday.html",
+    "currentPage": "filmsession.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 175,
+    "uniqCompNum": 262,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>КОНТАКТ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page14.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>КОНТАКТ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page14.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -310,7 +310,7 @@
             "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Monday.html\" data-toolbar=\"-mbrBtnMove\">01.05 ПН</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"1.html\" data-toolbar=\"-mbrBtnMove\">01.05 ПН</a> "
         },
         {
           "_tags": [
@@ -323,7 +323,7 @@
             "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Tuesday.html\" data-toolbar=\"-mbrBtnMove\">02.05 ВТ</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"2.html\" data-toolbar=\"-mbrBtnMove\">02.05 ВТ</a> "
         },
         {
           "_tags": [
@@ -336,7 +336,7 @@
             "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Wednesday.html\" data-toolbar=\"-mbrBtnMove\">03.05 СР</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"3.html\" data-toolbar=\"-mbrBtnMove\">03.05 СР</a> "
         },
         {
           "_tags": [
@@ -349,7 +349,7 @@
             "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Thursday.html\" data-toolbar=\"-mbrBtnMove\">04.05 ЧТ</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"4.html\" data-toolbar=\"-mbrBtnMove\">04.05 ЧТ</a> "
         },
         {
           "_tags": [
@@ -362,7 +362,7 @@
             "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Friday.html\" data-toolbar=\"-mbrBtnMove\">05.05 ПТ</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"5.html\" data-toolbar=\"-mbrBtnMove\">05.05 ПТ</a> "
         },
         {
           "_tags": [
@@ -375,7 +375,7 @@
             "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Saturday.html\" data-toolbar=\"-mbrBtnMove\">06.05 СБ</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"6.html\" data-toolbar=\"-mbrBtnMove\">06.05 СБ</a> "
         },
         {
           "_tags": [
@@ -388,7 +388,7 @@
             "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Sunday.html\" data-toolbar=\"-mbrBtnMove\">07.05 ВС</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"7.html\" data-toolbar=\"-mbrBtnMove\">07.05 ВС</a> "
         },
         {
           "_tags": [
@@ -1186,7 +1186,8 @@
     "Monday.html": {
       "settings": {
         "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
+        "meta_descr": "Website Creator Description",
+        "order": 7
       },
       "components": [
         {
@@ -1276,7 +1277,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>КОНТАКТ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page14.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>КОНТАКТ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page14.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "alias": "htmlblock",
@@ -1358,170 +1359,19 @@
           "title": "FULL SCREEN INTRO",
           "text": "Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, в целях избежания недоразумений, рекомендуем уточнить её по телефону: 4-30-95 или 2-22-93<br><br>Приятного просмотра!.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        }
-      ]
-    },
-    "Tuesday.html": {
-      "settings": {
-        "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "16px"
-            },
-            ".navbar-toggler": {
-              "color": "#c0a375"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#c0a375"
-            },
-            ".link, .dropdown-item": {
-              "color": "#c0a375"
-            },
-            ".link": {
-              "font-size": "1.1rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#c0a375",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-2j",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": "1.1",
-            "fontName": {},
-            "fontColor": "#c0a375",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": false,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled%20-%202-122x128.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>КОНТАКТ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page14.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#c0a375",
-              "font-size": "16px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            "SMALL": {
-              "text-align": "right"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2k",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "0",
-            "bgColor": "#2e2e2e",
-            "showMeta": true
-          },
-          "title": "ВТОРНИК",
-          "meta": "2 мая 2017"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_styles": {
-            "SPAN": {
-              "color": "#efefef"
-            },
-            "P": {
-              "text-align": "left"
-            },
-            "FONT": {
-              "text-align": "left",
-              "color": "#efefef"
-            }
-          },
-          "_anchor": "content2-2l",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#2e2e2e"
-          },
-          "text": "<blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Сеансов нет</span></p></blockquote>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-2m",
+          "_anchor": "buttons1-50",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a>"
         },
         {
           "_tags": [
@@ -1530,11 +1380,11 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-lead": {
-              "font-size": "18px",
-              "color": "#c1c1c1"
+              "font-size": "12px",
+              "color": "#7c706b"
             }
           },
-          "_anchor": "header1-3v",
+          "_anchor": "header1-4z",
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
@@ -1555,7 +1405,7 @@
             "showButtons": false
           },
           "title": "FULL SCREEN INTRO",
-          "text": "Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, в целях избежания недоразумений, рекомендуем уточнить её по телефону: 4-30-95 или 2-22-93<br><br>Приятного просмотра!.<br>",
+          "text": "Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, в целях избежания недоразумений, рекомендуем уточнить её по телефону: 4-30-95 или 2-22-93<br><br>Приятного просмотра!<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
@@ -1563,7 +1413,8 @@
     "Wednesday.html": {
       "settings": {
         "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
+        "meta_descr": "Website Creator Description",
+        "order": 9
       },
       "components": [
         {
@@ -1656,71 +1507,50 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>КОНТАКТ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page14.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
             "H3": {
               "color": "#c0a375",
               "font-size": "16px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            "SMALL": {
-              "text-align": "right"
             }
           },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-2p",
+          "_anchor": "htmlblock-block-54",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "0",
+            "blockTitle": "<span style=\"font: 12pt Arial;color:#c0a375;\">ДЕНЬНЕДЕЛИ ДД.ММ</span>",
+            "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250р</th>\n  </tr>\n</table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250р</th>\n  </tr>\n</table>\n",
+            "paddingTop": "40",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#2e2e2e",
-            "showMeta": true
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "extEdit": false
           },
-          "title": "СРЕДА",
-          "meta": "3 мая 2017"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_styles": {
-            "SPAN": {
-              "color": "#efefef"
-            },
-            "P": {
-              "text-align": "left"
-            },
-            "FONT": {
-              "text-align": "left",
-              "color": "#efefef"
-            }
-          },
-          "_anchor": "content2-2q",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#2e2e2e"
-          },
-          "text": "<div><span style=\"font-size: 1.07rem; line-height: 1.5; font-family: Lora, serif; font-style: italic;\"><br></span></div><div><br><blockquote><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">15:00</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Урфин Джюс и его деревянные солдаты</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">3D/0+/150р</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">17:00</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Никита Кожемяка</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">2D/6+/100р</span></p></blockquote></div>"
+          "paddingTop": ".block {padding-bottom:40px; padding-top:40px;}",
+          "blockTitle": "<span style=\"font: 12pt Arial;color:#c0a375;\">СРЕДА 03.05</span>",
+          "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">15:00</th>\n    <th class=\"tg-oh1h\">Урфин Джюс и его деревянные солдаты</th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">150р</th>\n  </tr>\n</tbody></table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">17:00</th>\n    <th class=\"tg-oh1h\">Никита Кожемяка</th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">2D</th>\n    <th class=\"tg-hj1s\">6+</th>\n    <th class=\"tg-hj1s\">100р</th>\n  </tr>\n</tbody></table>\n"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-2r",
+          "_anchor": "buttons1-55",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "1",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgColor": "#2e2e2e"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a>"
         },
         {
           "_tags": [
@@ -1729,8 +1559,8 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-lead": {
-              "font-size": "18px",
-              "color": "#c1c1c1"
+              "font-size": "12px",
+              "color": "#7c706b"
             }
           },
           "_anchor": "header1-3w",
@@ -1762,7 +1592,8 @@
     "Thursday.html": {
       "settings": {
         "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
+        "meta_descr": "Website Creator Description",
+        "order": 10
       },
       "components": [
         {
@@ -1961,7 +1792,8 @@
     "Friday.html": {
       "settings": {
         "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
+        "meta_descr": "Website Creator Description",
+        "order": 11
       },
       "components": [
         {
@@ -2161,7 +1993,8 @@
     "Saturday.html": {
       "settings": {
         "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
+        "meta_descr": "Website Creator Description",
+        "order": 12
       },
       "components": [
         {
@@ -2360,7 +2193,8 @@
     "Sunday.html": {
       "settings": {
         "title": "Website Creator Title",
-        "meta_descr": "Website Creator Description"
+        "meta_descr": "Website Creator Description",
+        "order": 13
       },
       "components": [
         {
@@ -2559,7 +2393,8 @@
     "contact.html": {
       "settings": {
         "title": "",
-        "meta_descr": ""
+        "meta_descr": "",
+        "order": 14
       },
       "components": [
         {
@@ -2611,7 +2446,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
+              "color": "#c0a375!important"
             }
           },
           "_tags": [
@@ -2649,7 +2484,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>КОНТАКТ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page14.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>КОНТАКТ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page14.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2770,10 +2605,11 @@
         }
       ]
     },
-    "page14.html": {
+    "Tuesday.html": {
       "settings": {
-        "title": "Site Builder Title",
-        "meta_descr": "Site Builder Description"
+        "title": "",
+        "meta_descr": "",
+        "order": 8
       },
       "components": [
         {
@@ -2825,14 +2661,14 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
+              "color": "#c0a375!important"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-3f",
+          "_anchor": "menu-4w",
           "_params": {
             "bgColor": "#282828",
             "fontSize": "1.1",
@@ -2866,6 +2702,102 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>КОНТАКТ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page14.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-5a",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#2e2e2e"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#7c706b",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "header1-5b",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, в целях избежания недоразумений, рекомендуем уточнить её по телефону: 4-30-95 или 2-22-93<br><br>Приятного просмотра!.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-51",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#2e2e2e"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#7c706b",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "header1-52",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Внимание! Информация о представленных в киноконцертном зале \"АКВИЛОН 3D\" фильмах и времени начала сеансов получена из открытых источников. Если у Вас есть сомнения в точности предоставленной в данном приложении информации, в целях избежания недоразумений, рекомендуем уточнить её по телефону: 4-30-95 или 2-22-93<br><br>Приятного просмотра!<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
           "alias": "htmlblock",
           "_tags": [
             "Extension"
@@ -2879,10 +2811,10 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
-          "_anchor": "htmlblock-block-4t",
+          "_anchor": "htmlblock-block-56",
           "_params": {
             "blockTitle": "<span style=\"font: 12pt Arial;color:#c0a375;\">ДЕНЬНЕДЕЛИ ДД.ММ</span>",
-            "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250р</th>\n  </tr>\n</table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250р</th>\n  </tr>\n</table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250р</th>\n  </tr>\n</table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250р</th>\n  </tr>\n</table>\n",
+            "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250р</th>\n  </tr>\n</table>\n",
             "paddingTop": "40",
             "bgImageRadio": false,
             "parallax": true,
@@ -2895,8 +2827,1030 @@
             "extEdit": false
           },
           "paddingTop": ".block {padding-bottom:40px; padding-top:40px;}",
-          "blockTitle": "<span style=\"font: 12pt Arial;color:#c0a375;\">ДЕНЬНЕДЕЛИ ДД.ММ</span>",
-          "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250р</th>\n  </tr>\n</tbody></table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250р</th>\n  </tr>\n</tbody></table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250р</th>\n  </tr>\n</tbody></table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250р</th>\n  </tr>\n</tbody></table>\n"
+          "blockTitle": "<span style=\"font: 12pt Arial;color:#c0a375;\">ВТОРНИК 02.05</span>",
+          "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">--:--</th>\n    <th class=\"tg-oh1h\">Сеансов нет</th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">--</th>\n    <th class=\"tg-hj1s\">--</th>\n    <th class=\"tg-hj1s\">-----</th>\n  </tr>\n</tbody></table>\n"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-58",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-57",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        }
+      ]
+    },
+    "1.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#c0a375"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#c0a375"
+            },
+            ".link, .dropdown-item": {
+              "color": "#c0a375"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#c0a375",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-6e",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1.1",
+            "fontName": {},
+            "fontColor": "#c0a375",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled%20-%202-122x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>КОНТАКТ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page14.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-6g",
+          "_params": {
+            "blockTitle": "<span style=\"font: 12pt Arial;color:#c0a375;\">ДЕНЬНЕДЕЛИ ДД.ММ</span>",
+            "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</table>",
+            "paddingTop": "40",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "extEdit": false
+          },
+          "paddingTop": ".block {padding-bottom:40px; padding-top:40px;}",
+          "blockTitle": "<span style=\"font: 12pt Arial;color:#c0a375;\">ПОНЕДЕЛЬНИК 01.05</span>",
+          "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\"><i>Сеанса нет</i></th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">0₽</th>\n  </tr>\n</tbody></table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">17:00</th>\n    <th class=\"tg-oh1h\">Урфин Джюс и его деревянные солдаты</th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</tbody></table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">19:00</th>\n    <th class=\"tg-oh1h\">Форсаж 8</th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">12+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</tbody></table>",
+          "_styles": {
+            "I": {
+              "color": "#b8312f"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-6h",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "7",
+            "bgColor": "#2e2e2e"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a>"
+        }
+      ]
+    },
+    "2.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#c0a375"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#c0a375"
+            },
+            ".link, .dropdown-item": {
+              "color": "#c0a375"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#c0a375",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-6q",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1.1",
+            "fontName": {},
+            "fontColor": "#c0a375",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled%20-%202-122x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>КОНТАКТ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page14.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-6r",
+          "_params": {
+            "blockTitle": "<span style=\"font: 12pt Arial;color:#c0a375;\">ДЕНЬНЕДЕЛИ ДД.ММ</span>",
+            "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</table>",
+            "paddingTop": "40",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "extEdit": false
+          },
+          "paddingTop": ".block {padding-bottom:40px; padding-top:40px;}",
+          "blockTitle": "<span style=\"font: 12pt Arial;color:#c0a375;\">ВТОРНИК 02.05</span>",
+          "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\"><i>Нет сеанса</i></th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">-D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">0₽</th>\n  </tr>\n</tbody></table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\"><i>Нет сеанса</i></th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">-D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">0₽</th>\n  </tr>\n</tbody></table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\"><i>Нет сеанса</i></th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">-D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">0₽</th>\n  </tr>\n</tbody></table>",
+          "_styles": {
+            "I": {
+              "color": "#b8312f"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-74",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "7",
+            "bgColor": "#2e2e2e"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a>"
+        }
+      ]
+    },
+    "3.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#c0a375"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#c0a375"
+            },
+            ".link, .dropdown-item": {
+              "color": "#c0a375"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#c0a375",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-6s",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1.1",
+            "fontName": {},
+            "fontColor": "#c0a375",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled%20-%202-122x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>КОНТАКТ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page14.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-6t",
+          "_params": {
+            "blockTitle": "<span style=\"font: 12pt Arial;color:#c0a375;\">ДЕНЬНЕДЕЛИ ДД.ММ</span>",
+            "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</table>",
+            "paddingTop": "40",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "extEdit": false
+          },
+          "paddingTop": ".block {padding-bottom:40px; padding-top:40px;}",
+          "blockTitle": "<span style=\"font: 12pt Arial;color:#c0a375;\">СРЕДА 03.05</span>",
+          "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">15:00</th>\n    <th class=\"tg-oh1h\">Урфин Джюс и его деревянные солдаты</th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">150₽</th>\n  </tr>\n</tbody></table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">17:00</th>\n    <th class=\"tg-oh1h\">Никита Кожемяка</th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">2D</th>\n    <th class=\"tg-hj1s\">6+</th>\n    <th class=\"tg-hj1s\">100₽</th>\n  </tr>\n</tbody></table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\"><i>Нет сеанса</i></th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">-D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">0₽</th>\n  </tr>\n</tbody></table>",
+          "_styles": {
+            "I": {
+              "color": "#b8312f"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-75",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "7",
+            "bgColor": "#2e2e2e"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a>"
+        }
+      ]
+    },
+    "4.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#c0a375"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#c0a375"
+            },
+            ".link, .dropdown-item": {
+              "color": "#c0a375"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#c0a375",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-6u",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1.1",
+            "fontName": {},
+            "fontColor": "#c0a375",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled%20-%202-122x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>КОНТАКТ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page14.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-6v",
+          "_params": {
+            "blockTitle": "<span style=\"font: 12pt Arial;color:#c0a375;\">ДЕНЬНЕДЕЛИ ДД.ММ</span>",
+            "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</table>",
+            "paddingTop": "40",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "extEdit": false
+          },
+          "paddingTop": ".block {padding-bottom:40px; padding-top:40px;}",
+          "blockTitle": "<span style=\"font: 12pt Arial;color:#c0a375;\">ЧЕТВЕРГ 04.05</span>",
+          "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\"><i>Нет сеанса</i></th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">-D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">0₽</th>\n  </tr>\n</tbody></table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">17:00</th>\n    <th class=\"tg-oh1h\">Никита Кожемяка</th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">2D</th>\n    <th class=\"tg-hj1s\">6+</th>\n    <th class=\"tg-hj1s\">100₽</th>\n  </tr>\n</tbody></table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">19:00</th>\n    <th class=\"tg-oh1h\">Три дня до весны<font color=\"#b8312f\"><i>&nbsp;</i></font></th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">12+</th>\n    <th class=\"tg-hj1s\">250₽ &nbsp;ПРЕМЬЕРА</th>\n  </tr>\n</tbody></table>",
+          "_styles": {
+            "I": {
+              "color": "#b8312f"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-76",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "7",
+            "bgColor": "#2e2e2e"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a>"
+        }
+      ]
+    },
+    "5.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#c0a375"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#c0a375"
+            },
+            ".link, .dropdown-item": {
+              "color": "#c0a375"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#c0a375",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-6w",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1.1",
+            "fontName": {},
+            "fontColor": "#c0a375",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled%20-%202-122x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>КОНТАКТ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page14.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-6x",
+          "_params": {
+            "blockTitle": "<span style=\"font: 12pt Arial;color:#c0a375;\">ДЕНЬНЕДЕЛИ ДД.ММ</span>",
+            "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</table>",
+            "paddingTop": "40",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "extEdit": false
+          },
+          "paddingTop": ".block {padding-bottom:40px; padding-top:40px;}",
+          "blockTitle": "<span style=\"font: 12pt Arial;color:#c0a375;\">ПЯТНИЦА 05.05</span>",
+          "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\"><i>Нет сеанса</i></th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">-D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">0₽</th>\n  </tr>\n</tbody></table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">16:00</th>\n    <th class=\"tg-oh1h\">Три дня до весны</th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">12+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</tbody></table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\"><i>Нет сеанса</i></th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">-D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">0₽</th>\n  </tr>\n</tbody></table>",
+          "_styles": {
+            "I": {
+              "color": "#b8312f"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-77",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "7",
+            "bgColor": "#2e2e2e"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a>"
+        }
+      ]
+    },
+    "6.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#c0a375"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#c0a375"
+            },
+            ".link, .dropdown-item": {
+              "color": "#c0a375"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#c0a375",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-6y",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1.1",
+            "fontName": {},
+            "fontColor": "#c0a375",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled%20-%202-122x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>КОНТАКТ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page14.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-6z",
+          "_params": {
+            "blockTitle": "<span style=\"font: 12pt Arial;color:#c0a375;\">ДЕНЬНЕДЕЛИ ДД.ММ</span>",
+            "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</table>",
+            "paddingTop": "40",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "extEdit": false
+          },
+          "paddingTop": ".block {padding-bottom:40px; padding-top:40px;}",
+          "blockTitle": "<span style=\"font: 12pt Arial;color:#c0a375;\">СУББОТА 06.05</span>",
+          "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\"><i>Нет сеанса</i></th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">-D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">0₽</th>\n  </tr>\n</tbody></table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\"><font color=\"#b8312f\"><i>Нет сеанса</i></font></th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">-D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">0₽</th>\n  </tr>\n</tbody></table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\"><i>Нет сеанса</i></th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">-D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">0₽</th>\n  </tr>\n</tbody></table>",
+          "_styles": {
+            "I": {
+              "color": "#b8312f"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-78",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "7",
+            "bgColor": "#2e2e2e"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a>"
+        }
+      ]
+    },
+    "7.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#c0a375"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#c0a375"
+            },
+            ".link, .dropdown-item": {
+              "color": "#c0a375"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#c0a375",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-70",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1.1",
+            "fontName": {},
+            "fontColor": "#c0a375",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": false,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled%20-%202-122x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">АКВИЛОН '3D</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>КОНТАКТ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-android mbr-iconfont mbr-iconfont-btn\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page14.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-71",
+          "_params": {
+            "blockTitle": "<span style=\"font: 12pt Arial;color:#c0a375;\">ДЕНЬНЕДЕЛИ ДД.ММ</span>",
+            "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-5b1d\">00:00</th>\n    <th class=\"tg-oh1h\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</table>",
+            "paddingTop": "40",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "extEdit": false
+          },
+          "paddingTop": ".block {padding-bottom:40px; padding-top:40px;}",
+          "blockTitle": "<span style=\"font: 12pt Arial;color:#c0a375;\">ВОСКРЕСЕНИЕ 07.05</span>",
+          "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">13:00</th>\n    <th class=\"tg-oh1h\">Урфин Джюс и его деревянные солдаты</th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">100₽</th>\n  </tr>\n</tbody></table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">15:00</th>\n    <th class=\"tg-oh1h\">Никита Кожемяка</th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">2D</th>\n    <th class=\"tg-hj1s\">6+</th>\n    <th class=\"tg-hj1s\">100₽</th>\n  </tr>\n</tbody></table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-5b1d{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-oh1h{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-5b1d\">17:00</th>\n    <th class=\"tg-oh1h\">Три дня до весны</th>\n  </tr>\n</tbody></table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-u4xx{font-size:18px;font-family:Arial, Helvetica, sans-serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-u4xx\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">12+</th>\n    <th class=\"tg-hj1s\">250₽</th>\n  </tr>\n</tbody></table>",
+          "_styles": {
+            "I": {
+              "color": "#efefef"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-79",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "7",
+            "bgColor": "#2e2e2e"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"filmsession.html\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a>"
         }
       ]
     }
