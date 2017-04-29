@@ -2906,7 +2906,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "extEdit": true
+            "extEdit": false
           },
           "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
           "blockTitle": "<h3>Название блока</h3>",
