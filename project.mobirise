@@ -410,8 +410,8 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-lead": {
-              "color": "#c1c1c1",
-              "font-size": "18px"
+              "color": "#7c706b",
+              "font-size": "14px"
             }
           },
           "_anchor": "header1-3t",
