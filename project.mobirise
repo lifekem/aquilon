@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 170,
+    "uniqCompNum": 172,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2633,7 +2633,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "@primaryColor!important"
             }
           },
           "_tags": [
@@ -2799,39 +2799,6 @@
       },
       "components": [
         {
-          "alias": "htmlblock",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "htmlblock-block",
-          "_styles": {
-            "H3": {
-              "color": "#c0a375",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "16px"
-            }
-          },
-          "_anchor": "htmlblock-block-4p",
-          "_params": {
-            "blockTitle": "<h3>ПОНЕДЕЛЬНИК 01.05</h3>",
-            "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-x5th{font-size:16px;font-family:serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-3p12{font-size:16px;font-family:serif !important;;vertical-align:top}\n.tg .tg-zam9{font-weight:bold;font-size:16px;font-family:serif !important;;color:#ffffff;vertical-align:top}\n.tg .tg-n1nv{font-size:16px;font-family:serif !important;;color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-x5th\">00:00</th>\n    <th class=\"tg-zam9\" colspan=\"3\">Название фильма</th>\n  </tr>\n  <tr>\n    <td class=\"tg-3p12\"></td>\n    <td class=\"tg-n1nv\">3D</td>\n    <td class=\"tg-n1nv\">0+</td>\n    <td class=\"tg-n1nv\">100р</td>\n  </tr>\n</table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-x5th{font-size:16px;font-family:serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-3p12{font-size:16px;font-family:serif !important;;vertical-align:top}\n.tg .tg-zam9{font-weight:bold;font-size:16px;font-family:serif !important;;color:#ffffff;vertical-align:top}\n.tg .tg-n1nv{font-size:16px;font-family:serif !important;;color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-x5th\">00:00</th>\n    <th class=\"tg-zam9\" colspan=\"3\">Название фильма</th>\n  </tr>\n  <tr>\n    <td class=\"tg-3p12\"></td>\n    <td class=\"tg-n1nv\">3D</td>\n    <td class=\"tg-n1nv\">0+</td>\n    <td class=\"tg-n1nv\">100р</td>\n  </tr>\n</table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-x5th{font-size:16px;font-family:serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-3p12{font-size:16px;font-family:serif !important;;vertical-align:top}\n.tg .tg-zam9{font-weight:bold;font-size:16px;font-family:serif !important;;color:#ffffff;vertical-align:top}\n.tg .tg-n1nv{font-size:16px;font-family:serif !important;;color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-x5th\">00:00</th>\n    <th class=\"tg-zam9\" colspan=\"3\">Название фильма</th>\n  </tr>\n  <tr>\n    <td class=\"tg-3p12\"></td>\n    <td class=\"tg-n1nv\">3D</td>\n    <td class=\"tg-n1nv\">0+</td>\n    <td class=\"tg-n1nv\">100р</td>\n  </tr>\n</table>",
-            "paddingTop": "40",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "extEdit": false
-          },
-          "paddingTop": ".block {padding-bottom:40px; padding-top:40px;}",
-          "blockTitle": "<h3>ПОНЕДЕЛЬНИК 01.05</h3>",
-          "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-x5th{font-size:16px;font-family:serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-3p12{font-size:16px;font-family:serif !important;;vertical-align:top}\n.tg .tg-zam9{font-weight:bold;font-size:16px;font-family:serif !important;;color:#ffffff;vertical-align:top}\n.tg .tg-n1nv{font-size:16px;font-family:serif !important;;color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-x5th\">00:00</th>\n    <th class=\"tg-zam9\" colspan=\"3\">Название фильма</th>\n  </tr>\n  <tr>\n    <td class=\"tg-3p12\"></td>\n    <td class=\"tg-n1nv\">3D</td>\n    <td class=\"tg-n1nv\">0+</td>\n    <td class=\"tg-n1nv\">100р</td>\n  </tr>\n</tbody></table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-x5th{font-size:16px;font-family:serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-3p12{font-size:16px;font-family:serif !important;;vertical-align:top}\n.tg .tg-zam9{font-weight:bold;font-size:16px;font-family:serif !important;;color:#ffffff;vertical-align:top}\n.tg .tg-n1nv{font-size:16px;font-family:serif !important;;color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-x5th\">00:00</th>\n    <th class=\"tg-zam9\" colspan=\"3\">Название фильма</th>\n  </tr>\n  <tr>\n    <td class=\"tg-3p12\"></td>\n    <td class=\"tg-n1nv\">3D</td>\n    <td class=\"tg-n1nv\">0+</td>\n    <td class=\"tg-n1nv\">100р</td>\n  </tr>\n</tbody></table>\n\n\n\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-x5th{font-size:16px;font-family:serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-3p12{font-size:16px;font-family:serif !important;;vertical-align:top}\n.tg .tg-zam9{font-weight:bold;font-size:16px;font-family:serif !important;;color:#ffffff;vertical-align:top}\n.tg .tg-n1nv{font-size:16px;font-family:serif !important;;color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-x5th\">00:00</th>\n    <th class=\"tg-zam9\" colspan=\"3\">Название фильма</th>\n  </tr>\n  <tr>\n    <td class=\"tg-3p12\"></td>\n    <td class=\"tg-n1nv\">3D</td>\n    <td class=\"tg-n1nv\">0+</td>\n    <td class=\"tg-n1nv\">100р</td>\n  </tr>\n</tbody></table>"
-        },
-        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -2880,14 +2847,14 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "@primaryColor!important"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-4b",
+          "_anchor": "menu-3f",
           "_params": {
             "bgColor": "#282828",
             "fontSize": "1.1",
@@ -2921,17 +2888,29 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>ГЛАВНАЯ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"preview.html\"><span class=\"mbri-play mbr-iconfont mbr-iconfont-btn\"></span>АНОНСЫ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"filmsession.html\" aria-expanded=\"false\"><span class=\"mbri-clock mbr-iconfont mbr-iconfont-btn\"></span>СЕАНСЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>КОНТАКТ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page14.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
+          "alias": "htmlblock",
           "_tags": [
-            "Theme"
+            "Extension"
           ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-4j",
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-4r",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#2e2e2e"
+            "blockTitle": "<h3>Название блока</h3>",
+            "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-amq5{font-size:18px;font-family:serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-ib0t{font-weight:bold;font-size:18px;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-amq5\">00:00</th>\n    <th class=\"tg-ib0t\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-lstl{font-size:18px;font-family:serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-lstl\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">100р</th>\n  </tr>\n</table>",
+            "paddingTop": 20,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "extEdit": true
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a>"
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "blockTitle": "<h3>Название блока</h3>",
+          "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-amq5{font-size:18px;font-family:serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-ib0t{font-weight:bold;font-size:18px;color:#efefef;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-amq5\">00:00</th>\n    <th class=\"tg-ib0t\">Название фильма</th>\n  </tr>\n</table>\n<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-lstl{font-size:18px;font-family:serif !important;;color:#2e2e2e;vertical-align:top}\n.tg .tg-hj1s{color:#c0c0c0;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-lstl\">00:00</th>\n    <th class=\"tg-hj1s\">3D</th>\n    <th class=\"tg-hj1s\">0+</th>\n    <th class=\"tg-hj1s\">100р</th>\n  </tr>\n</table>"
         }
       ]
     }
