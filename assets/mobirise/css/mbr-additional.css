@@ -1566,7 +1566,6 @@ h6,
   color: #7c706b;
 }
 
-
 #menu-4b .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1629,14 +1628,4 @@ h6,
 #menu-4b .link[aria-expanded="true"],
 #menu-4b .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#htmlblock-block-4c H3 {
-  color: #c0a375;
-}
-#htmlblock-block-4c TD {
-  color: #efefef;
-}
-#htmlblock-block-4c DIV {
-  color: #c0a375;
-  font-family: 'Open Sans', sans-serif;
 }
