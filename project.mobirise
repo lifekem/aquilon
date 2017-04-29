@@ -2799,6 +2799,38 @@
       },
       "components": [
         {
+          "alias": "htmlblock",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-4k",
+          "_params": {
+            "blockTitle": "ПОНЕДЕЛЬНИК 01.05",
+            "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-d4g4{font-size:16px;font-family:\"Lucida Sans Unicode\", \"Lucida Grande\", sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-m2he{font-weight:bold;font-size:16px;font-family:\"Lucida Sans Unicode\", \"Lucida Grande\", sans-serif !important;;color:#ffffff;vertical-align:top}\n.tg .tg-yw4l{vertical-align:top}\n.tg .tg-767d{font-family:Georgia, serif !important;;color:#c0a375;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-d4g4\">00:00</th>\n    <th class=\"tg-m2he\" colspan=\"3\">Название фильма</th>\n  </tr>\n  <tr>\n    <td class=\"tg-yw4l\"></td>\n    <td class=\"tg-767d\">3D</td>\n    <td class=\"tg-767d\">0+</td>\n    <td class=\"tg-767d\">100р</td>\n  </tr>\n</table>",
+            "paddingTop": 20,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "extEdit": true
+          },
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "blockTitle": "ПОНЕДЕЛЬНИК 01.05",
+          "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-d4g4{font-size:16px;font-family:\"Lucida Sans Unicode\", \"Lucida Grande\", sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-m2he{font-weight:bold;font-size:16px;font-family:\"Lucida Sans Unicode\", \"Lucida Grande\", sans-serif !important;;color:#ffffff;vertical-align:top}\n.tg .tg-yw4l{vertical-align:top}\n.tg .tg-767d{font-family:Georgia, serif !important;;color:#c0a375;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tbody><tr>\n    <th class=\"tg-d4g4\">00:00</th>\n    <th class=\"tg-m2he\" colspan=\"3\">Название фильма</th>\n  </tr>\n  <tr>\n    <td class=\"tg-yw4l\"></td>\n    <td class=\"tg-767d\">3D</td>\n    <td class=\"tg-767d\">0+</td>\n    <td class=\"tg-767d\">100р</td>\n  </tr>\n</tbody></table>",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#c0a375"
+            }
+          }
+        },
+        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -2899,31 +2931,6 @@
             "bgColor": "#2e2e2e"
           },
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">НАЗАД</a>"
-        },
-        {
-          "alias": "htmlblock",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "htmlblock-block",
-          "_anchor": "htmlblock-block-4k",
-          "_params": {
-            "blockTitle": "<h3>Название блока</h3>",
-            "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-d4g4{font-size:16px;font-family:\"Lucida Sans Unicode\", \"Lucida Grande\", sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-m2he{font-weight:bold;font-size:16px;font-family:\"Lucida Sans Unicode\", \"Lucida Grande\", sans-serif !important;;color:#ffffff;vertical-align:top}\n.tg .tg-yw4l{vertical-align:top}\n.tg .tg-767d{font-family:Georgia, serif !important;;color:#c0a375;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-d4g4\">00:00</th>\n    <th class=\"tg-m2he\" colspan=\"3\">Название фильма</th>\n  </tr>\n  <tr>\n    <td class=\"tg-yw4l\"></td>\n    <td class=\"tg-767d\">3D</td>\n    <td class=\"tg-767d\">0+</td>\n    <td class=\"tg-767d\">100р</td>\n  </tr>\n</table>",
-            "paddingTop": 20,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "extEdit": true
-          },
-          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
-          "blockTitle": "<h3>Название блока</h3>",
-          "HTMLCode": "<style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;border:none;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}\n.tg .tg-d4g4{font-size:16px;font-family:\"Lucida Sans Unicode\", \"Lucida Grande\", sans-serif !important;;color:#c0a375;vertical-align:top}\n.tg .tg-m2he{font-weight:bold;font-size:16px;font-family:\"Lucida Sans Unicode\", \"Lucida Grande\", sans-serif !important;;color:#ffffff;vertical-align:top}\n.tg .tg-yw4l{vertical-align:top}\n.tg .tg-767d{font-family:Georgia, serif !important;;color:#c0a375;vertical-align:top}\n</style>\n<table class=\"tg\">\n  <tr>\n    <th class=\"tg-d4g4\">00:00</th>\n    <th class=\"tg-m2he\" colspan=\"3\">Название фильма</th>\n  </tr>\n  <tr>\n    <td class=\"tg-yw4l\"></td>\n    <td class=\"tg-767d\">3D</td>\n    <td class=\"tg-767d\">0+</td>\n    <td class=\"tg-767d\">100р</td>\n  </tr>\n</table>"
         }
       ]
     }
