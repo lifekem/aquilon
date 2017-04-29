@@ -1567,9 +1567,10 @@ h6,
 }
 
 
-#htmlblock-block-4k DIV {
-  font-family: 'Open Sans', sans-serif;
+#htmlblock-block-4l H3 {
   color: #c0a375;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
 }
 #menu-4b .hide-buttons .nav-btn {
   display: none !important;
