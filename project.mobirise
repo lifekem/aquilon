@@ -410,7 +410,9 @@
             },
             "H3": {
               "color": "#c0a375",
-              "font-size": "30px"
+              "font-size": "30px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_tags": [
@@ -420,37 +422,12 @@
           "_anchor": "header3-7q",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgColor": "#2e2e2e",
             "showMeta": true
           },
           "title": "Три дня до весны",
-          "meta": "До премьеры осталось:"
-        },
-        {
-          "alias": "htmlblock",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "htmlblock-block",
-          "_anchor": "htmlblock-block-7p",
-          "_params": {
-            "blockTitle": "",
-            "HTMLCode": "<script src=\"http://megatimer.ru/s/986e3ae2b9aaae39c3a8665772912cb7.js\"></script>",
-            "paddingTop": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "extEdit": false
-          },
-          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
-          "blockTitle": "",
-          "HTMLCode": "<script src=\"http://megatimer.ru/s/986e3ae2b9aaae39c3a8665772912cb7.js\"></script>"
+          "meta": "<span style=\"font-style: normal;\">Премьера 4 мая в 19:00</span>"
         },
         {
           "_tags": [
