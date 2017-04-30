@@ -564,6 +564,7 @@ h6,
 #header2-7r .mbr-section-title SPAN {
   font-family: 'Open Sans', sans-serif;
   font-size: 25px;
+  color: #c0a375;
 }
 #header2-7r .mbr-section-title {
   font-size: 14px;
@@ -571,7 +572,7 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #header2-7r .mbr-section-text {
-  color: #c0a375;
+  color: #cccccc;
   font-size: 17px;
 }
 

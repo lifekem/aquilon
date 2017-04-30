@@ -454,7 +454,8 @@
             ".mbr-section-title SPAN": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "25px"
+              "font-size": "25px",
+              "color": "#c0a375"
             },
             ".mbr-section-title": {
               "font-size": "14px",
@@ -463,7 +464,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".mbr-section-text": {
-              "color": "#c0a375",
+              "color": "#cccccc",
               "font-size": "17px"
             }
           }
