@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kemlife.aquilon",
-    "currentPage": "contact.html",
+    "currentPage": "filmsession.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -426,7 +426,7 @@
             "bgColor": "#2e2e2e",
             "showMeta": true
           },
-          "title": "Три дня до весны",
+          "title": "",
           "meta": "<span style=\"font-style: normal;\">Премьера 4 мая в 19:00</span>"
         },
         {
