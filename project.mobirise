@@ -409,7 +409,8 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#c0a375"
+              "color": "#c0a375",
+              "font-size": "30px"
             }
           },
           "_tags": [
