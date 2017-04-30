@@ -447,17 +447,20 @@
               "size": 250
             }
           },
-          "title": "ТРИ ДНЯ ДО ВЕСНЫ",
+          "title": "<span style=\"font-weight: normal;\">ТРИ ДНЯ ДО ВЕСНЫ</span>",
           "text": "Премьера 4 мая в 19:00",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             ".mbr-section-title SPAN": {
               "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "25px"
             },
             ".mbr-section-title": {
-              "font-size": "25px",
-              "color": "#cccccc"
+              "font-size": "14px",
+              "color": "#cccccc",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".mbr-section-text": {
               "color": "#c0a375",

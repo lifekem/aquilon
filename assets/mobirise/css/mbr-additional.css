@@ -489,6 +489,7 @@ h6,
 }
 
 
+
 #menu-g .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -562,10 +563,12 @@ h6,
 }
 #header2-7r .mbr-section-title SPAN {
   font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
 }
 #header2-7r .mbr-section-title {
-  font-size: 25px;
+  font-size: 14px;
   color: #cccccc;
+  font-family: 'Open Sans', sans-serif;
 }
 #header2-7r .mbr-section-text {
   color: #c0a375;
