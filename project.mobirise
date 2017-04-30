@@ -420,7 +420,7 @@
           "_anchor": "header3-7q",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#2e2e2e",
             "showMeta": true
           },
@@ -460,14 +460,18 @@
           "_anchor": "image1-7o",
           "media": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/782b4a32089a481345bcd12232a896cd-1400x1999.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://youtu.be/pUkp2JkM8dc",
               "autoplay": false,
-              "loop": false,
-              "active": true
+              "loop": false
             }
           },
           "_params": {
