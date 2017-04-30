@@ -2385,8 +2385,8 @@
           "_name": "buttons1",
           "_anchor": "buttons1-7k",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "3",
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgColor": "#2e2e2e"
           },
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">ГЛАВНАЯ</a>"
@@ -2398,7 +2398,7 @@
           "_name": "footer1",
           "_anchor": "footer1-7j",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
@@ -2409,7 +2409,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "KEM'LiFE(c) 2017"
+          "text": "KEM'LiFE(c) 2017",
+          "_styles": {
+            "P": {
+              "color": "#494949"
+            }
+          }
         }
       ]
     }
