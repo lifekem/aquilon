@@ -398,7 +398,7 @@
           "_anchor": "buttons1-3r",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "bgColor": "#2e2e2e"
           },
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ГЛАВНАЯ</a>"
