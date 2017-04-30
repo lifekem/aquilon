@@ -2303,7 +2303,7 @@
               "family": "et-line"
             }
           },
-          "text2": "8 (814-58) 2-22-93<br><i>8 (814-58)</i> 4-30-95",
+          "text2": "8 (814-58) 2-22-93<br>8 (814-58) 4-30-95",
           "media2": {
             "iconFont": {
               "active": true,
@@ -2372,6 +2372,9 @@
             },
             "LI": {
               "color": "#c1c1c1"
+            },
+            ".list-group-text": {
+              "color": "#cccccc"
             }
           }
         },

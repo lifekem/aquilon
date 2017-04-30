@@ -1391,3 +1391,6 @@ h6,
 #contacts3-7h LI {
   color: #c1c1c1;
 }
+#contacts3-7h .list-group-text {
+  color: #cccccc;
+}
