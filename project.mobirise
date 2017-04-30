@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kemlife.aquilon",
-    "currentPage": "filmsession.html",
+    "currentPage": "preview.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -881,7 +881,7 @@
           "_name": "buttons1",
           "_anchor": "buttons1-1r",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "3",
             "bgColor": "#2e2e2e"
           },
