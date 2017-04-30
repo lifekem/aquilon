@@ -559,9 +559,12 @@ h6,
   color: #c0a375;
   font-size: 36px;
 }
-#header1-3t .mbr-section-lead {
-  color: #7c706b;
-  font-size: 14px;
+#header3-7q .mbr-section-title,
+#header3-7q .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-7q H3 {
+  color: #c0a375;
 }
 
 #menu-10 .hide-buttons .nav-btn {
