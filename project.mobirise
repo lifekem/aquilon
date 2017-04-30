@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kemlife.aquilon",
-    "currentPage": "contact.html",
+    "currentPage": "filmsession.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 279,
+    "uniqCompNum": 280,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -404,57 +404,66 @@
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ГЛАВНАЯ</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#c0a375",
-              "font-size": "30px",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-7q",
+          "_name": "header2",
+          "_anchor": "header2-7r",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "1",
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/782b4a32089a481345bcd12232a896cd-2000x2856.png",
             "bgColor": "#2e2e2e",
-            "showMeta": true
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
           },
-          "title": "",
-          "meta": "<span style=\"font-style: normal;\">Премьера 4 мая в 19:00</span>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-7o",
           "media": {
             "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/782b4a32089a481345bcd12232a896cd-1400x1999.png",
               "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
             },
             "video": {
               "src": "https://youtu.be/pUkp2JkM8dc",
+              "aspectratio": "16:9",
               "autoplay": false,
-              "loop": false
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
             }
           },
-          "_params": {
-            "showText": false
-          },
-          "text": "Три дня до весны"
+          "title": "ТРИ ДНЯ ДО ВЕСНЫ",
+          "text": "Премьера 4 мая в 19:00",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            ".mbr-section-title SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px",
+              "color": "#cccccc"
+            },
+            ".mbr-section-text": {
+              "color": "#c0a375",
+              "font-size": "17px"
+            }
+          }
         }
       ]
     },
@@ -2344,7 +2353,7 @@
           },
           "text4": "<a href=\"https://vk.com/public130497062\" target=\"_blank\">Сраница ЦКиС в VK</a>",
           "title1": "О программе",
-          "text5": "<li>АКВИЛОН 3D</li><li>Web-приложение</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Версия 1.0.1</span></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Android 5.1 и выше</span></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">3G / 4G / WIFI</span></li>",
+          "text5": "<li>АКВИЛОН 3D</li><li>Web-приложение</li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Версия 1.0.1</span></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">Android 5.1 и выше</span></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\">3G / 4G / WIFI</span></li><li><span style=\"font-size: 0.875rem; line-height: 1.8;\"><a href=\"https://vk.com/aquilon_apk\" target=\"_blank\">Мы ВКонтакте</a></span></li>",
           "text6": "",
           "form": {
             "title": "MESSAGE",

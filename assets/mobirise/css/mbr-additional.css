@@ -560,14 +560,16 @@ h6,
   color: #c0a375;
   font-size: 36px;
 }
-#header3-7q .mbr-section-title,
-#header3-7q .mbr-section-subtitle {
-  text-align: center;
+#header2-7r .mbr-section-title SPAN {
+  font-family: 'Open Sans', sans-serif;
 }
-#header3-7q H3 {
+#header2-7r .mbr-section-title {
+  font-size: 25px;
+  color: #cccccc;
+}
+#header2-7r .mbr-section-text {
   color: #c0a375;
-  font-size: 30px;
-  font-family: 'Roboto', sans-serif;
+  font-size: 17px;
 }
 
 #menu-10 .hide-buttons .nav-btn {
