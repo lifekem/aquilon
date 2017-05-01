@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 289,
+    "uniqCompNum": 290,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -409,10 +409,10 @@
             "Extension"
           ],
           "_name": "htmlblock-block",
-          "_anchor": "htmlblock-block-80",
+          "_anchor": "htmlblock-block-81",
           "_params": {
-            "blockTitle": "<h3>Название блока</h3>",
-            "HTMLCode": "<iframe src=\"https://calendar.google.com/calendar/embed?src=c7bsnjibn5g3tdtcjp6guke28o%40group.calendar.google.com&ctz=Europe/Moscow\" style=\"border: 0\" width=\"800\" height=\"600\" frameborder=\"0\" scrolling=\"no\"></iframe>",
+            "blockTitle": "",
+            "HTMLCode": "",
             "paddingTop": 20,
             "bgImageRadio": false,
             "parallax": true,
@@ -425,8 +425,8 @@
             "extEdit": false
           },
           "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
-          "blockTitle": "<h3>Название блока</h3>",
-          "HTMLCode": "<iframe src=\"https://calendar.google.com/calendar/embed?src=c7bsnjibn5g3tdtcjp6guke28o%40group.calendar.google.com&ctz=Europe/Moscow\" style=\"border: 0\" width=\"800\" height=\"600\" frameborder=\"0\" scrolling=\"no\"></iframe>"
+          "blockTitle": "",
+          "HTMLCode": ""
         }
       ]
     },
