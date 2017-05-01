@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kemlife.aquilon",
-    "currentPage": "contact.html",
+    "currentPage": "filmsession.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 286,
+    "uniqCompNum": 289,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -404,70 +404,29 @@
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ГЛАВНАЯ</a>"
         },
         {
+          "alias": "htmlblock",
           "_tags": [
-            "Theme"
+            "Extension"
           ],
-          "_name": "header2",
-          "_styles": {
-            ".mbr-section-title SPAN": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "25px",
-              "color": "#c0a375"
-            },
-            ".mbr-section-title": {
-              "font-size": "14px",
-              "color": "#cccccc",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            ".mbr-section-text": {
-              "color": "#cccccc",
-              "font-size": "17px"
-            }
-          },
-          "_anchor": "header2-7r",
+          "_name": "htmlblock-block",
+          "_anchor": "htmlblock-block-80",
           "_params": {
-            "imageSize": 50,
-            "parallax": true,
+            "blockTitle": "<h3>Название блока</h3>",
+            "HTMLCode": "<iframe src=\"https://calendar.google.com/calendar/embed?src=c7bsnjibn5g3tdtcjp6guke28o%40group.calendar.google.com&ctz=Europe/Moscow\" style=\"border: 0\" width=\"800\" height=\"600\" frameborder=\"0\" scrolling=\"no\"></iframe>",
+            "paddingTop": 20,
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/782b4a32089a481345bcd12232a896cd-2000x2856.png",
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "#000",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": false
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "extEdit": false
           },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
-            },
-            "video": {
-              "src": "https://youtu.be/pUkp2JkM8dc",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "<span style=\"font-weight: normal;\">ТРИ ДНЯ ДО ВЕСНЫ</span>",
-          "text": "Премьера 4 мая в 19:00",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
+          "blockTitle": "<h3>Название блока</h3>",
+          "HTMLCode": "<iframe src=\"https://calendar.google.com/calendar/embed?src=c7bsnjibn5g3tdtcjp6guke28o%40group.calendar.google.com&ctz=Europe/Moscow\" style=\"border: 0\" width=\"800\" height=\"600\" frameborder=\"0\" scrolling=\"no\"></iframe>"
         }
       ]
     },
