@@ -551,13 +551,20 @@ h6,
 #menu-g .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header3-3j .mbr-section-title,
-#header3-3j .mbr-section-subtitle {
-  text-align: center;
+#msg-box2-84 .mbr-section-title {
+  color: #fff;
 }
-#header3-3j H3 {
-  color: #c0a375;
-  font-size: 36px;
+#msg-box2-84 .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#msg-box2-84 .mbr-section-title SPAN {
+  font-size: 23px;
+}
+#msg-box2-83 .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-83 .mbr-section-subtitle {
+  color: #a0a0a0;
 }
 
 #menu-10 .hide-buttons .nav-btn {

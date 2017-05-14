@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kemlife.aquilon",
-    "currentPage": "7.html",
+    "currentPage": "filmsession.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 290,
+    "uniqCompNum": 293,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -277,118 +277,57 @@
         },
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+            ".mbr-section-title": {
+              "color": "#fff"
             },
-            "H3": {
-              "color": "#c0a375",
-              "font-size": "36px"
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "23px"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-3j",
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-84",
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "2",
             "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
-            "showMeta": true
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showTitle": true,
+            "showText": false
           },
-          "title": "РАСПИСАНИЕ",
-          "meta": "<span style=\"font-style: normal;\">КИНОСЕАНСОВ НА НЕДЕЛЮ</span>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "title": "<span style=\"font-weight: normal;\">РАСПИСАНИЕ СЕАНСОВ</span>",
+          "text": "Cut down the development time with drag-and-drop website builder."
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-3k",
+          "_name": "content1",
+          "_anchor": "content1-82",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#2e2e2e"
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"1.html\" data-toolbar=\"-mbrBtnMove\">08.05 ПН</a> "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-3l",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#2e2e2e"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"2.html\" data-toolbar=\"-mbrBtnMove\">09.05 ВТ</a> "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-3m",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#2e2e2e"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"3.html\" data-toolbar=\"-mbrBtnMove\">10.05 СР</a> "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-3n",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#2e2e2e"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"4.html\" data-toolbar=\"-mbrBtnMove\">11.05 ЧТ&nbsp;</a> "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-3o",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#2e2e2e"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"5.html\" data-toolbar=\"-mbrBtnMove\">12.05 ПТ</a> "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-3p",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#2e2e2e"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"6.html\" data-toolbar=\"-mbrBtnMove\">13.05 СБ</a> "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-3q",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#2e2e2e"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"7.html\" data-toolbar=\"-mbrBtnMove\">14.05 ВС</a> "
+          "text": "<p>14 мая, воскресенье</p><p>16.00 - \"Меч короля Артура\" 3D (16+), 127 мин. Цена билета - 250 руб.</p><p>19.00 - \"Стражи Галактики\" 3D (16+), 136 мин. Цена билета - 250 руб.</p><p>17 мая, среда</p><p>16.00 - \"Стражи Галактики\" 3D (16+), 136 мин. Цена билета - 250 руб.</p><p>19.00 - \"Меч короля Артура\" 3D (16+), 127 мин. Цена билета - 250 руб.</p><p>18 мая, четверг</p><p>16.00 - \"Трио в перьях\" 3D (6+) Премьера. 85 мин. Цена билета - 150 руб.</p><p>19.00 - \"Большой\" Премьера 2D (12+), 132 мин. Цена билета - 250 руб.</p><p>19 мая, пятница</p><p>20 мая, суббота</p><p>13.00 - \"Трио в перьях\" 3D (6+) 85 мин. Цена билета - 150 руб.</p><p>16.00 - \"Большой\" 2D (12+), 132 мин. Цена билета - 200 руб.</p><p>19.00 - \"Стражи Галактики\" 3D (16+), 136 мин. Цена билета - 250 руб.</p><p>21 мая, воскресенье</p><p>13.00 - \"Трио в перьях\" 3D (6+) 85 мин. Цена билета - 150 руб.</p><p>16.00 - \"Стражи Галактики\" 3D (16+), 136 мин. Цена билета - 250 руб.</p><p>19.00 - \"Большой\" 2D (12+), 132 мин. Цена билета - 200 руб.&nbsp;</p>"
         },
         {
           "_tags": [
@@ -397,36 +336,49 @@
           "_name": "buttons1",
           "_anchor": "buttons1-3r",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "3",
+            "paddingTop": "3",
+            "paddingBottom": "1",
             "bgColor": "#2e2e2e"
           },
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-white-outline btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ГЛАВНАЯ</a>"
         },
         {
-          "alias": "htmlblock",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
           "_tags": [
-            "Extension"
+            "Theme"
           ],
-          "_name": "htmlblock-block",
-          "_anchor": "htmlblock-block-81",
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-83",
           "_params": {
-            "blockTitle": "",
-            "HTMLCode": "",
-            "paddingTop": 20,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "extEdit": false
+            "inverse": false,
+            "showButtons": false,
+            "showTitle": false,
+            "showText": false
           },
-          "paddingTop": ".block {padding-bottom:0px; padding-top:0px;}",
-          "blockTitle": "",
-          "HTMLCode": ""
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "title": "TRENDY WEBSITE BLOCKS",
+          "text": "Cut down the development time with drag-and-drop website builder."
         }
       ]
     },
