@@ -48,7 +48,7 @@
           "_name": "header2",
           "_anchor": "header2-85",
           "_params": {
-            "imageSize": "29",
+            "imageSize": "27",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
@@ -89,7 +89,7 @@
               "size": 250
             }
           },
-          "title": "KEMiNFO",
+          "title": "<span style=\"font-weight: normal;\">KEMiNFO</span>",
           "text": "Приложение для жителей и гостей города Кемь",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
@@ -100,7 +100,11 @@
             },
             ".mbr-section-text": {
               "color": "#28324e",
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "15px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "36px"
             }
           }
         }
