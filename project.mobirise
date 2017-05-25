@@ -48,7 +48,7 @@
           "_name": "header2",
           "_anchor": "header2-85",
           "_params": {
-            "imageSize": "27",
+            "imageSize": "20",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
